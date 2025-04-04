@@ -1,0 +1,1441 @@
+﻿set_number,sentID_in_set,theme,numerosity,tense,sentence,word_count,structure,sentID_in_dataset
+1,1,art,plural,past,The artists painted their canvases yesterday.,7,baseline_a,1
+1,2,art,plural,past,The artists attentively painted their canvases yesterday.,7,baseline_b,2
+1,3,art,plural,past,The talented artists painted their canvases yesterday.,7,baseline_c,3
+1,4,art,plural,past,The talented artists attentively painted their canvases yesterday.,8,baseline_d,4
+1,5,art,plural,past,The artists in their studios painted their canvases yesterday.,9,control_a,5
+1,6,art,plural,past,The artists in their studios attentively painted their canvases yesterday.,10,control_b,6
+1,7,art,plural,past,The talented artists in their studios painted their canvases yesterday.,10,control_c,7
+1,8,art,plural,past,The talented artists in their studios attentively painted their canvases yesterday.,11,control_d,8
+1,9,art,plural,past,The artists who trained hard painted their canvases yesterday.,9,standard_subject_a,9
+1,10,art,plural,past,The artists who trained hard attentively painted their canvases yesterday.,10,standard_subject_b,10
+1,11,art,plural,past,The talented artists who trained hard painted their canvases yesterday.,10,standard_subject_c,11
+1,12,art,plural,past,The talented artists who trained hard attentively painted their canvases yesterday.,11,standard_subject_d,12
+1,13,art,plural,past,The artists who the critics admired painted their canvases yesterday.,10,standard_object_a,13
+1,14,art,plural,past,The artists who the critics admired attentively painted their canvases yesterday.,11,standard_object_b,14
+1,15,art,plural,past,The talented artists who the critics admired painted their canvases yesterday.,11,standard_object_c,15
+1,16,art,plural,past,The talented artists who the critics admired attentively painted their canvases yesterday.,12,standard_object_d,16
+1,17,art,plural,past,The artists who read the books that were on the shelves painted their canvases yesterday.,15,nested_subject_a,17
+1,18,art,plural,past,The artists who read the books that were on the shelves attentively painted their canvases yesterday.,16,nested_subject_b,18
+1,19,art,plural,past,The talented artists who read the books that were on the shelves painted their canvases yesterday.,16,nested_subject_c,19
+1,20,art,plural,past,The talented artists who read the books that were on the shelves attentively painted their canvases yesterday.,17,nested_subject_d,20
+1,21,art,plural,past,The artists who the curators who the museums respected supported painted their canvases yesterday.,14,nested_object_a,21
+1,22,art,plural,past,The artists who the curators who the museums respected supported attentively painted their canvases yesterday.,15,nested_object_b,22
+1,23,art,plural,past,The talented artists who the curators who the museums respected supported painted their canvases yesterday.,15,nested_object_c,23
+1,24,art,plural,past,The talented artists who the curators who the museums respected supported attentively painted their canvases yesterday.,16,nested_object_d,24
+2,1,art,plural,present,The artists paint new pictures.,5,baseline_a,25
+2,2,art,plural,present,The artists quickly paint new pictures.,6,baseline_b,26
+2,3,art,plural,present,The talented artists paint new pictures.,6,baseline_c,27
+2,4,art,plural,present,The talented artists quickly paint new pictures.,7,baseline_d,28
+2,5,art,plural,present,The artists in the studios paint new pictures.,8,control_a,29
+2,6,art,plural,present,The artists in the studios quickly paint new pictures.,9,control_b,30
+2,7,art,plural,present,The talented artists in the studios paint new pictures.,9,control_c,31
+2,8,art,plural,present,The talented artists in the studios quickly paint new pictures.,10,control_d,32
+2,9,art,plural,present,The artists who practice every day paint new pictures.,9,standard_subject_a,33
+2,10,art,plural,present,The artists who practice every day quickly paint new pictures.,10,standard_subject_b,34
+2,11,art,plural,present,The talented artists who practice every day paint new pictures.,10,standard_subject_c,35
+2,12,art,plural,present,The talented artists who practice every day quickly paint new pictures.,11,standard_subject_d,36
+2,13,art,plural,present,The artists who the gallery owners hire paint new pictures.,10,standard_object_a,37
+2,14,art,plural,present,The artists who the gallery owners hire quickly paint new pictures.,11,standard_object_b,38
+2,15,art,plural,present,The talented artists who the gallery owners hire paint new pictures.,11,standard_object_c,39
+2,16,art,plural,present,The talented artists who the gallery owners hire quickly paint new pictures.,12,standard_object_d,40
+2,17,art,plural,present,The artists who read the books that are on the shelves paint new pictures.,14,nested_subject_a,41
+2,18,art,plural,present,The artists who read the books that are on the shelves quickly paint new pictures.,15,nested_subject_b,42
+2,19,art,plural,present,The talented artists who read the books that are on the shelves paint new pictures.,15,nested_subject_c,43
+2,20,art,plural,present,The talented artists who read the books that are on the shelves quickly paint new pictures.,16,nested_subject_d,44
+2,21,art,plural,present,The artists who the instructors who the schools pay teach paint new pictures.,14,nested_object_a,45
+2,22,art,plural,present,The artists who the instructors who the schools pay teach quickly paint new pictures.,3,nested_object_b,46
+2,23,art,plural,present,The talented artists who the instructors who the schools pay teach paint new pictures.,14,nested_object_c,47
+2,24,art,plural,present,The talented artists who the instructors who the schools pay teach quickly paint new pictures.,15,nested_object_d,48
+3,1,art,singular,past,The painter created the sculpture.,5,baseline_a,49
+3,2,art,singular,past,The painter quickly created the sculpture.,6,baseline_b,50
+3,3,art,singular,past,The talented painter created the sculpture.,6,baseline_c,51
+3,4,art,singular,past,The talented painter quickly created the sculpture.,7,baseline_d,52
+3,5,art,singular,past,The painter in the attic created the sculpture.,8,control_a,53
+3,6,art,singular,past,The painter in the attic quickly created the sculpture.,9,control_b,54
+3,7,art,singular,past,The talented painter in the attic created the sculpture.,9,control_c,55
+3,8,art,singular,past,The talented painter in the attic quickly created the sculpture.,10,control_d,56
+3,9,art,singular,past,The painter who practiced daily created the sculpture.,8,standard_subject_a,57
+3,10,art,singular,past,The painter who practiced daily quickly created the sculpture.,9,standard_subject_b,58
+3,11,art,singular,past,The talented painter who practiced daily created the sculpture.,9,standard_subject_c,59
+3,12,art,singular,past,The talented painter who practiced daily quickly created the sculpture.,10,standard_subject_d,60
+3,13,art,singular,past,The painter who the curator hired created the sculpture.,9,standard_object_a,61
+3,14,art,singular,past,The painter who the curator hired quickly created the sculpture.,10,standard_object_b,62
+3,15,art,singular,past,The talented painter who the curator hired created the sculpture.,10,standard_object_c,63
+3,16,art,singular,past,The talented painter who the curator hired quickly created the sculpture.,11,standard_object_d,64
+3,17,art,singular,past,The painter who studied the techniques that were in the book created the sculpture.,14,nested_subject_a,65
+3,18,art,singular,past,The painter who studied the technique that was in the book quickly created the sculpture.,15,nested_subject_b,66
+3,19,art,singular,past,The talented painter who studied the technique that was in the book created the sculpture.,15,nested_subject_c,67
+3,20,art,singular,past,The talented painter who studied the technique that was in the book quickly created the sculpture.,16,nested_subject_d,68
+3,21,art,singular,past,The painter who the critic who the artist admired respected created the sculpture.,13,nested_object_a,69
+3,22,art,singular,past,The painter who the critic who the artist admired respected quickly created the sculpture.,14,nested_object_b,70
+3,23,art,singular,past,The talented painter who the critic who the artist admired respected created the sculpture.,14,nested_object_c,71
+3,24,art,singular,past,The talented painter who the critic who the artist admired respected quickly created the sculpture.,15,nested_object_d,72
+4,1,art,plural,past,The guitarists played a new song.,6,baseline_a,73
+4,2,art,plural,past,The guitarists skillfully played a new song.,7,baseline_b,74
+4,3,art,plural,past,The creative guitarists played a new song.,7,baseline_c,75
+4,4,art,plural,past,The creative guitarists skillfully played a new song.,8,baseline_d,76
+4,5,art,plural,past,The guitarists in the studio played a new song.,9,control_a,77
+4,6,art,plural,past,The guitarists in the studio skillfully played a new song.,10,control_b,78
+4,7,art,plural,past,The creative guitarists in the studio played a new song.,10,control_c,79
+4,8,art,plural,past,The creative guitarists in the studio skillfully played a new song.,11,control_d,80
+4,9,art,plural,past,The guitarists who studied music played a new song.,9,standard_subject_a,81
+4,10,art,plural,past,The guitarists who studied music skillfully played a new song.,10,standard_subject_b,82
+4,11,art,plural,past,The creative guitarists who studied music played a new song.,10,standard_subject_c,83
+4,12,art,plural,past,The creative guitarists who studied music skillfully played a new song.,11,standard_subject_d,84
+4,13,art,plural,past,The guitarists who the singers found played a new song.,10,standard_object_a,85
+4,14,art,plural,past,The guitarists who the singers found skillfully played a new song.,11,standard_object_b,86
+4,15,art,plural,past,The creative guitarists who the singers found played a new song.,11,standard_object_c,87
+4,16,art,plural,past,The creative guitarists who the singers found skillfully played a new song.,12,standard_object_d,88
+4,17,art,plural,past,The guitarists who put together the band that had success played a new song.,14,nested_subject_a,89
+4,18,art,plural,past,The guitarists who put together the band that had success skillfully played a new song.,15,nested_subject_b,90
+4,19,art,plural,past,The creative guitarists who put together the band that had success played a new song.,15,nested_subject_c,91
+4,20,art,plural,past,The creative guitarists who put together the band that had success skillfully played a new song.,16,nested_subject_d,92
+4,21,art,plural,past,The guitarists who the drummers who the company hired welcomes played a new song.,16,nested_object_a,93
+4,22,art,plural,past,The guitarists who the drummers who the company hired welcomes skillfully played a new song.,15,nested_object_b,94
+4,23,art,plural,past,The creative guitarists who the drummers who the company hired welcomes played a new song.,15,nested_object_c,95
+4,24,art,plural,past,The creative guitarists who the drummers who the company hired welcomes skillfully played a new song.,16,nested_object_d,96
+5,1,basic,plural,past,The parents cooked the meal.,5,baseline_a,97
+5,2,basic,plural,past,The parents slowly cooked the meal.,6,baseline_b,98
+5,3,basic,plural,past,The elderly parents cooked the meal.,6,baseline_c,99
+5,4,basic,plural,past,The elderly parents slowly cooked the meal.,7,baseline_d,100
+5,5,basic,plural,past,The parents in the kitchen cooked the meal.,8,control_a,101
+5,6,basic,plural,past,The parents in the kitchen slowly cooked the meal.,9,control_b,102
+5,7,basic,plural,past,The elderly parents in the kitchen cooked the meal.,9,control_c,103
+5,8,basic,plural,past,The elderly parents in the kitchen slowly cooked the meal.,10,control_d,104
+5,9,basic,plural,past,The parents who studied cooking cooked the meal.,8,standard_subject_a,105
+5,10,basic,plural,past,The parents who studied cooking slowly cooked the meal.,9,standard_subject_b,106
+5,11,basic,plural,past,The elderly parents who studied cooking cooked the meal.,9,standard_subject_c,107
+5,12,basic,plural,past,The elderly parents who studied cooking slowly cooked the meal.,10,standard_subject_d,108
+5,13,basic,plural,past,The parents who the guests visited cooked the meal.,9,standard_object_a,109
+5,14,basic,plural,past,The parents who the guests visited slowly cooked the meal.,10,standard_object_b,110
+5,15,basic,plural,past,The elderly parents who theguests visited cooked the meal.,10,standard_object_c,111
+5,16,basic,plural,past,The elderly parents who the guests visited slowly cooked the meal.,11,standard_object_d,112
+5,17,basic,plural,past,The parents who saw the recipes that were in the book cooked the meal.,14,nested_subject_a,113
+5,18,basic,plural,past,The parents who saw the recipes that were in the book slowly cooked the meal.,15,nested_subject_b,114
+5,19,basic,plural,past,The elderly parents who saw the recipes that were in the book cooked the meal.,15,nested_subject_c,115
+5,20,basic,plural,past,The elderly parents who saw the recipes that were in the book slowly cooked the meal.,16,nested_subject_d,116
+5,21,basic,plural,past,The parents who the friends who the children trusted invited cooked the meal.,13,nested_object_a,117
+5,22,basic,plural,past,The parents who the friends who the children trusted invited slowly cooked the meal.,14,nested_object_b,118
+5,23,basic,plural,past,The elderly parents who the friends who the children trusted invited cooked the meal.,14,nested_object_c,119
+5,24,basic,plural,past,The elderly parents who the friends who the children trusted invited slowly cooked the meal.,15,nested_object_d,120
+6,1,basic,singular,present,The teacher eats a sandwich.,5,baseline_a,121
+6,2,basic,singular,present,The teacher delicately eats a sandwich.,6,baseline_b,122
+6,3,basic,singular,present,The nice teacher eats a sandwich.,6,baseline_c,123
+6,4,basic,singular,present,The nice teacher delicately eats a sandwich.,7,baseline_d,124
+6,5,basic,singular,present,The teacher at home eats a sandwich.,7,control_a,125
+6,6,basic,singular,present,The teacher at home delicately eats a sandwich.,8,control_b,126
+6,7,basic,singular,present,The nice teacher at home eats a sandwich.,8,control_c,127
+6,8,basic,singular,present,The nice teacher at home delicately eats a sandwich.,9,control_d,128
+6,9,basic,singular,present,The teacher who read books eats a sandwich.,8,standard_subject_a,129
+6,10,basic,singular,present,The teacher who read books delicately eats a sandwich.,9,standard_subject_b,130
+6,11,basic,singular,present,The nice teacher who read books eats a sandwich.,9,standard_subject_c,131
+6,12,basic,singular,present,The nice teacher who read books delicately eats a sandwich.,10,standard_subject_d,132
+6,13,basic,singular,present,The teacher who the student respected eats a sandwich.,9,standard_object_a,133
+6,14,basic,singular,present,The teacher who the student respected delicately eats a sandwich.,10,standard_object_b,134
+6,15,basic,singular,present,The nice teacher who the student respected eats a sandwich.,10,standard_object_c,135
+6,16,basic,singular,present,The nice teacher who the student respected delicately eats a sandwich.,11,standard_object_d,136
+6,17,basic,singular,present,The teacher who studied the textbook that was on the shelf eats a sandwich.,14,nested_subject_a,137
+6,18,basic,singular,present,The teacher who studied the textbook that was on the shelf delicately eats a sandwich.,15,nested_subject_b,138
+6,19,basic,singular,present,The nice teacher who studied the textbook that was on the shelf eats a sandwich.,15,nested_subject_c,139
+6,20,basic,singular,present,The nice teacher who studied the textbook that was on the shelf delicately eats a sandwich.,16,nested_subject_d,140
+6,21,basic,singular,present,The teacher who the parent who the principal trusted recommended eats a sandwich.,13,nested_object_a,141
+6,22,basic,singular,present,The teacher who the parent who the principal trusted recommended delicately eats a sandwich.,14,nested_object_b,142
+6,23,basic,singular,present,The nice teacher who the parent who the principal trusted recommended eats a sandwich.,14,nested_object_c,143
+6,24,basic,singular,present,The nice teacher who the parent who the principal trusted recommended delicately eats a sandwich.,15,nested_object_d,144
+7,1,communication,plural,past,The speakers used their phones yesterday.,6,baseline_a,145
+7,2,communication,plural,past,The speakers immediately used their phones yesterday.,7,baseline_b,146
+7,3,communication,plural,past,The skilled speakers used their phones yesterday.,7,baseline_c,147
+7,4,communication,plural,past,The skilled speakers immediately used their phones yesterday.,8,baseline_d,148
+7,5,communication,plural,past,The speakers in the offices used their phones yesterday.,9,control_a,149
+7,6,communication,plural,past,The speakers in the offices immediately used their phones yesterday.,10,control_b,150
+7,7,communication,plural,past,The skilled speakers in the offices used their phones yesterday.,10,control_c,151
+7,8,communication,plural,past,The skilled speakers in the offices immediately used their phones yesterday.,11,control_d,152
+7,9,communication,plural,past,The speakers who studied linguistics used their phones yesterday.,9,standard_subject_a,153
+7,10,communication,plural,past,The speakers who studied linguistics immediately used their phones yesterday.,10,standard_subject_b,154
+7,11,communication,plural,past,The skilled speakers who studied linguistics used their phones yesterday.,10,standard_subject_c,155
+7,12,communication,plural,past,The skilled speakers who studied linguistics immediately used their phones yesterday.,11,standard_subject_d,156
+7,13,communication,plural,past,The speakers who the managers trained used their phones yesterday.,10,standard_object_a,157
+7,14,communication,plural,past,The speakers who the managers trained immediately used their phones yesterday.,11,standard_object_b,158
+7,15,communication,plural,past,The skilled speakers who the managers trained used their phones yesterday.,11,standard_object_c,159
+7,16,communication,plural,past,The skilled speakers who the managers trained immediately used their phones yesterday.,12,standard_object_d,160
+7,17,communication,plural,past,The speakers who read the texts that explained grammar used their phones yesterday.,13,nested_subject_a,161
+7,18,communication,plural,past,The speakers who read the texts that explained grammar immediately used their phones yesterday.,14,nested_subject_b,162
+7,19,communication,plural,past,The skilled speakers who read the texts that explained grammar used their phones yesterday.,14,nested_subject_c,163
+7,20,communication,plural,past,The skilled speakers who read the texts that explained grammar immediately used their phones yesterday.,15,nested_subject_d,164
+7,21,communication,plural,past,The speakers who the trainers who the companies hired coached used their phones yesterday.,14,nested_object_a,165
+7,22,communication,plural,past,The speakers who the trainers who the companies hired coached immediately used their phones yesterday.,15,nested_object_b,166
+7,23,communication,plural,past,The skilled speakers who the trainers who the company hired coached used their phones yesterday.,15,nested_object_c,167
+7,24,communication,plural,past,The skilled speakers who the trainers who the companies hired coached immediately used their phones yesterday.,16,nested_object_d,168
+8,1,communication,plural,present,People send text messages on phones.,6,baseline_a,169
+8,2,communication,plural,present,People casually send text messages on phones.,7,baseline_b,170
+8,3,communication,plural,present,Active people send text messages on phones.,7,baseline_c,171
+8,4,communication,plural,present,Active people casually send text messages on phones.,8,baseline_d,172
+8,5,communication,plural,present,People in offices send text messages on phones.,8,control_a,173
+8,6,communication,plural,present,People in offices casually send text messages on phones.,9,control_b,174
+8,7,communication,plural,present,Active people in offices send text messages on phones.,9,control_c,175
+8,8,communication,plural,present,Active people in offices casually send text messages on phones.,10,control_d,176
+8,9,communication,plural,present,People who studied languages send text messages on phones.,9,standard_subject_a,177
+8,10,communication,plural,present,People who studied languages casually send text messages on phones.,10,standard_subject_b,178
+8,11,communication,plural,present,Active people who studied languages send text messages on phones.,10,standard_subject_c,179
+8,12,communication,plural,present,Active people who studied languages casually send text messages on phones.,11,standard_subject_d,180
+8,13,communication,plural,present,People who colleagues recommend send text messages on phones.,9,standard_object_a,181
+8,14,communication,plural,present,People who colleagues recommend casually send text messages on phones.,10,standard_object_b,182
+8,15,communication,plural,present,Active people who colleagues recommend send text messages on phones.,10,standard_object_c,183
+8,16,communication,plural,present,Active people who colleagues recommend casually send text messages on phones.,11,standard_object_d,184
+8,17,communication,plural,present,People who read articles that generate discussions send text messages on phones.,12,nested_subject_a,185
+8,18,communication,plural,present,People who read articles that generate discussions casually send text messages on phones.,13,nested_subject_b,186
+8,19,communication,plural,present,Active people who read articles that generate discussions send text messages on phones.,13,nested_subject_c,187
+8,20,communication,plural,present,Active people who read articles that generate discussions casually send text messages on phones.,14,nested_subject_d,188
+8,21,communication,plural,present,People who friends who trainers teach appreciate send text messages on phones.,12,nested_object_a,189
+8,22,communication,plural,present,People who friends who trainers teach appreciate casually send text messages on phones.,13,nested_object_b,190
+8,23,communication,plural,present,Active people who friends who trainers teach appreciate send text messages on phones.,13,nested_object_c,191
+8,24,communication,plural,present,Active people who friends who trainers teach appreciate casually send text messages on phones.,14,nested_object_d,192
+9,1,communication,singular,past,The teacher communicated the trip date to the parents.,5,baseline_a,193
+9,2,communication,singular,past,The teacher deliberately communicated the trip date to the parents.,6,baseline_b,194
+9,3,communication,singular,past,The experienced teacher communicated the trip date to the parents.,6,baseline_c,195
+9,4,communication,singular,past,The experienced teacher deliberately communicated the trip date to the parents.,7,baseline_d,196
+9,5,communication,singular,past,The teacher in the office communicated the trip date to the parents.,8,control_a,197
+9,6,communication,singular,past,The teacher in the office deliberately communicated the trip date to the parents.,9,control_b,198
+9,7,communication,singular,past,The experienced teacher in the office communicated the trip date to the parents.,9,control_c,199
+9,8,communication,singular,past,The experienced teacher in the office deliberately communicated the trip date to the parents.,10,control_d,200
+9,9,communication,singular,past,The teacher who prepared well communicated the trip date to the parents.,8,standard_subject_a,201
+9,10,communication,singular,past,The teacher who prepared well deliberately communicated the trip date to the parents.,9,standard_subject_b,202
+9,11,communication,singular,past,The experienced teacher who prepared well communicated the trip date to the parents.,9,standard_subject_c,203
+9,12,communication,singular,past,The experienced teacher who prepared well deliberately communicated the trip date to the parents.,10,standard_subject_d,204
+9,13,communication,singular,past,The teacher who the student liked communicated the trip date to the parents.,9,standard_object_a,205
+9,14,communication,singular,past,The teacher who the student liked deliberately communicated the trip date to the parents.,10,standard_object_b,206
+9,15,communication,singular,past,The experienced teacher who the student liked communicated the trip date to the parents.,10,standard_object_c,207
+9,16,communication,singular,past,The experienced teacher who the student liked deliberately communicated the trip date to the parents.,11,standard_object_d,208
+9,17,communication,singular,past,The teacher who read the atlas that was here communicated the trip date to the parents.,12,nested_subject_a,209
+9,18,communication,singular,past,The teacher who read the atlas that was here deliberately communicated the trip date to the parents.,13,nested_subject_b,210
+9,19,communication,singular,past,The experienced teacher who read the atlas that was here communicated the trip date to the parents.,13,nested_subject_c,211
+9,20,communication,singular,past,The experienced teacher who read the atlas that was here deliberately communicated the trip date to the parents.,14,nested_subject_d,212
+9,21,communication,singular,past,The teacher who the staff who the principal trusted helped communicated the trip date to the parents.,13,nested_object_a,213
+9,22,communication,singular,past,The teacher who the staff who the principal trusted helped deliberately communicated the trip date to the parents.,14,nested_object_b,214
+9,23,communication,singular,past,The experienced teacher who the staff who the principal trusted helped communicated the trip date to the parents.,14,nested_object_c,215
+9,24,communication,singular,past,The experienced teacher who the staff who the principal trusted helped deliberately communicated the trip date to the parents.,15,nested_object_d,216
+10,1,communication,singular,present,The secretary types a message.,5,baseline_a,217
+10,2,communication,singular,present,The secretary quickly types a message.,6,baseline_b,218
+10,3,communication,singular,present,The busy secretary types a message.,6,baseline_c,219
+10,4,communication,singular,present,The busy secretary quickly types a message.,7,baseline_d,220
+10,5,communication,singular,present,The secretary at the table types a message.,8,control_a,221
+10,6,communication,singular,present,The secretary at the table quickly types a message.,9,control_b,222
+10,7,communication,singular,present,The busy secretary at the table types a message.,9,control_c,223
+10,8,communication,singular,present,The busy secretary at the table quickly types a message.,10,control_d,224
+10,9,communication,singular,present,The secretary who prepared well types a message.,8,standard_subject_a,225
+10,10,communication,singular,present,The secretary who prepared well quickly types a message.,9,standard_subject_b,226
+10,11,communication,singular,present,The busy secretary who prepared well types a message.,9,standard_subject_c,227
+10,12,communication,singular,present,The busy secretary who prepared well quickly types a message.,10,standard_subject_d,228
+10,13,communication,singular,present,The secretary who the manager chose types a message.,9,standard_object_a,229
+10,14,communication,singular,present,The secretary who the manager chose quickly types a message.,10,standard_object_b,230
+10,15,communication,singular,present,The busy secretary who the manager chose writes a message.,10,standard_object_c,231
+10,16,communication,singular,present,The busy secretary who the manager chose quickly types a message.,11,standard_object_d,232
+10,17,communication,singular,present,The secretary who reviewed the text that was already edited types a message.,13,nested_subject_a,233
+10,18,communication,singular,present,The secretary who reviewed the text that was already edited quickly types a message.,14,nested_subject_b,234
+10,19,communication,singular,present,The busy secretary who reviewed the text that was already edited types a message.,14,nested_subject_c,235
+10,20,communication,singular,present,The busy secretary who reviewed the text that was already edited quickly types a message.,15,nested_subject_d,236
+10,21,communication,singular,present,The secretary who the editor who the chief hired recommends types a message.,14,nested_object_a,237
+10,22,communication,singular,present,The secretary who the editor who the chief hired recommends quickly types a message.,6,nested_object_b,238
+10,23,communication,singular,present,The busy secretary who the editor who the chief hired recommends types a message.,14,nested_object_c,239
+10,24,communication,singular,present,The busy secretary who the editor who the chief hired recommends quickly types a message.,15,nested_object_d,240
+11,1,daily routine,plural,past,The employees ate their breakfast.,5,baseline_a,241
+11,2,daily routine,plural,past,The employees expeditiously ate their breakfast.,6,baseline_b,242
+11,3,daily routine,plural,past,The new employees ate their breakfast.,6,baseline_c,243
+11,4,daily routine,plural,past,The new employees expeditiously ate their breakfast.,7,baseline_d,244
+11,5,daily routine,plural,past,The employees in the cafeteria ate their breakfast.,8,control_a,245
+11,6,daily routine,plural,past,The employees in the cafeteria expeditiously ate their breakfast.,9,control_b,246
+11,7,daily routine,plural,past,The new employees in the cafeteria ate their breakfast.,9,control_c,247
+11,8,daily routine,plural,past,The new employees in the cafeteria expeditiously ate their breakfast.,10,control_d,248
+11,9,daily routine,plural,past,The employees who trained hard ate their breakfast.,8,standard_subject_a,249
+11,10,daily routine,plural,past,The employees who trained hard expeditiously ate their breakfast.,9,standard_subject_b,250
+11,11,daily routine,plural,past,The new employees who trained hard ate their breakfast.,9,standard_subject_c,251
+11,12,daily routine,plural,past,The new employees who trained hard expeditiously ate their breakfast.,10,standard_subject_d,252
+11,13,daily routine,plural,past,The employees who the supervisors guided ate their breakfast.,9,standard_object_a,253
+11,14,daily routine,plural,past,The employees who the supervisors guided expeditiously ate their breakfast.,10,standard_object_b,254
+11,15,daily routine,plural,past,The new employees who the supervisors guided ate their breakfast.,10,standard_object_c,255
+11,16,daily routine,plural,past,The new employees who the supervisors guided expeditiously ate their breakfast.,11,standard_object_d,256
+11,17,daily routine,plural,past,The employees who received the newsletters that were on the table ate their breakfast.,14,nested_subject_a,257
+11,18,daily routine,plural,past,The employees who received the newsletters that were on the table expeditiously ate their breakfast.,15,nested_subject_b,258
+11,19,daily routine,plural,past,The new employees who received the newsletters that were on the table ate their breakfast.,15,nested_subject_c,259
+11,20,daily routine,plural,past,The new employees who received the newsletters that were on the table expeditiously ate their breakfast.,16,nested_subject_d,260
+11,21,daily routine,plural,past,The employees who the colleagues who the managers supported accepted ate their breakfast.,13,nested_object_a,261
+11,22,daily routine,plural,past,The employees who the colleagues who the managers supported accepted expeditiously ate their breakfast.,14,nested_object_b,262
+11,23,daily routine,plural,past,The new employees who the colleagues who the managers supported accepted ate their breakfast.,14,nested_object_c,263
+11,24,daily routine,plural,past,The new employees who the colleagues who the managers supported accepted expeditiously ate their breakfast.,15,nested_object_d,264
+12,1,daily routine,plural,present,The athletes wake their teammates.,5,baseline_a,265
+12,2,daily routine,plural,present,The athletes energetically wake their teammates.,6,baseline_b,266
+12,3,daily routine,plural,present,The exhausted athletes wake their teammates.,6,baseline_c,267
+12,4,daily routine,plural,present,The exhausted athletes energetically wake their teammates.,7,baseline_d,268
+12,5,daily routine,plural,present,The athletes in the hallway wake their teammates.,8,control_a,269
+12,6,daily routine,plural,present,The athletes in the hallway energetically wake their teammates.,9,control_b,270
+12,7,daily routine,plural,present,The exhausted athletes in the hallway wake their teammates.,9,control_c,271
+12,8,daily routine,plural,present,The exhausted athletes in the hallway energetically wake their teammates.,10,control_d,272
+12,9,daily routine,plural,present,The athletes who trained well wake their teammates.,8,standard_subject_a,273
+12,10,daily routine,plural,present,The athletes who trained well energetically wake their teammates.,9,standard_subject_b,274
+12,11,daily routine,plural,present,The exhausted athletes who trained well wake their teammates.,9,standard_subject_c,275
+12,12,daily routine,plural,present,The exhausted athletes who trained well energetically wake their teammates.,10,standard_subject_d,276
+12,13,daily routine,plural,present,The athletes who the coaches trained wake their teammates.,9,standard_object_a,277
+12,14,daily routine,plural,present,The athletes who the coaches trained energetically wake their teammates.,10,standard_object_b,278
+12,15,daily routine,plural,present,The exhausted athletes who the coaches trained wake their teammates.,10,standard_object_c,279
+12,16,daily routine,plural,present,The exhausted athletes who the coaches trained energetically wake their teammates.,11,standard_object_d,280
+12,17,daily routine,plural,present,The athletes who heard the news that were useful wake their teammates.,12,nested_subject_a,281
+12,18,daily routine,plural,present,The athletes who heard the news that were useful energetically wake their teammates.,13,nested_subject_b,282
+12,19,daily routine,plural,present,The exhausted athletes who heard the news that were useful wake their teammates.,13,nested_subject_c,283
+12,20,daily routine,plural,present,The exhausted athletes who heard the news that were useful energetically wake their teammates.,14,nested_subject_d,284
+12,21,daily routine,plural,present,The athletes who the trainers who the physicians taught recommended wake their teammates.,13,nested_object_a,285
+12,22,daily routine,plural,present,The athletes who the trainers who the physicians taught recommended energetically wake their teammates.,14,nested_object_b,286
+12,23,daily routine,plural,present,The exhausted athletes who the trainers who the physicians taught recommended wake their teammates.,14,nested_object_c,287
+12,24,daily routine,plural,present,The exhausted athletes who the trainers who the physicians taught recommended energetically wake their teammates.,15,nested_object_d,288
+13,1,daily routine,singular,past,The woman ate breakfast.,5,baseline_a,289
+13,2,daily routine,singular,past,The woman slowly ate breakfast.,6,baseline_b,290
+13,3,daily routine,singular,past,The young woman ate breakfast.,6,baseline_c,291
+13,4,daily routine,singular,past,The young woman slowly ate breakfast.,7,baseline_d,292
+13,5,daily routine,singular,past,The woman in the kitchen ate breakfast.,8,control_a,293
+13,6,daily routine,singular,past,The woman in the kitchen slowly ate breakfast.,9,control_b,294
+13,7,daily routine,singular,past,The young woman in the kitchen ate breakfast.,9,control_c,295
+13,8,daily routine,singular,past,The young woman in the kitchen slowly ate breakfast.,10,control_d,296
+13,9,daily routine,singular,past,The woman who woke up early ate breakfast.,9,standard_subject_a,297
+13,10,daily routine,singular,past,The woman who woke up early slowly ate breakfast.,10,standard_subject_b,298
+13,11,daily routine,singular,past,The young woman who woke up early ate breakfast.,10,standard_subject_c,299
+13,12,daily routine,singular,past,The young woman who woke up early slowly ate breakfast.,11,standard_subject_d,300
+13,13,daily routine,singular,past,The woman who the nurse helped ate breakfast.,9,standard_object_a,301
+13,14,daily routine,singular,past,The woman who the nurse helped slowly ate breakfast.,10,standard_object_b,302
+13,15,daily routine,singular,past,The young woman who the nurse helped ate breakfast.,10,standard_object_c,303
+13,16,daily routine,singular,past,The young woman who the nurse helped slowly ate breakfast.,11,standard_object_d,304
+13,17,daily routine,singular,past,The woman who made the smoothie that was in the blender ate breakfast.,14,nested_subject_a,305
+13,18,daily routine,singular,past,The woman who made the smoothie that was in the blender slowly ate breakfast.,15,nested_subject_b,306
+13,19,daily routine,singular,past,The young woman who made the smoothie that was in the blender ate breakfast.,15,nested_subject_c,307
+13,20,daily routine,singular,past,The young woman who made the smoothie that was in the blender slowly ate breakfast.,16,nested_subject_d,308
+13,21,daily routine,singular,past,The woman who the aunt who the handyman trusted visited ate breakfast.,13,nested_object_a,309
+13,22,daily routine,singular,past,The woman who the aunt who the handyman trusted visited slowly ate breakfast.,14,nested_object_b,310
+13,23,daily routine,singular,past,The young woman who the aunt who the handyman trusted visited ate breakfast.,14,nested_object_c,311
+13,24,daily routine,singular,past,The young woman who the aunt who the handyman trusted visited slowly ate breakfast.,15,nested_object_d,312
+14,1,daily routine,singular,present,The father makes breakfast.,4,baseline_a,313
+14,2,daily routine,singular,present,The father meticulously makes breakfast for the kids.,5,baseline_b,314
+14,3,daily routine,singular,present,The busy father makes breakfast for the kids.,5,baseline_c,315
+14,4,daily routine,singular,present,The busy father meticulously makes breakfast for the kids.,6,baseline_d,316
+14,5,daily routine,singular,present,The father in his home makes breakfast for the kids.,7,control_a,317
+14,6,daily routine,singular,present,The father in his home meticulously makes breakfast for the kids.,8,control_b,318
+14,7,daily routine,singular,present,The busy father in his home makes breakfast for the kids.,8,control_c,319
+14,8,daily routine,singular,present,The busy father in his home meticulously makes breakfast for the kids.,9,control_d,320
+14,9,daily routine,singular,present,The father who slept well makes breakfast for the kids.,7,standard_subject_a,321
+14,10,daily routine,singular,present,The father who slept well meticulously makes breakfast for the kids.,8,standard_subject_b,322
+14,11,daily routine,singular,present,The busy father an who slept well makes breakfast for the kids.,8,standard_subject_c,323
+14,12,daily routine,singular,present,The busy father who slept well meticulously makes breakfast for the kids.,9,standard_subject_d,324
+14,13,daily routine,singular,present,The father who his child woke makes breakfast for the kids.,8,standard_object_a,325
+14,14,daily routine,singular,present,The father who his child woke meticulously makes breakfast for the kids.,9,standard_object_b,326
+14,15,daily routine,singular,present,The busy father who his child woke makes breakfast for the kids.,9,standard_object_c,327
+14,16,daily routine,singular,present,The busy father who his child woke meticulously makes breakfast for the kids.,10,standard_object_d,328
+14,17,daily routine,singular,present,The father who read the recipe that was new makes breakfast for the kids.,11,nested_subject_a,329
+14,18,daily routine,singular,present,The father who read the recipe that was new meticulously makes breakfast for the kids.,12,nested_subject_b,330
+14,19,daily routine,singular,present,The busy father who read the recipe that was new makes breakfast for the kids.,12,nested_subject_c,331
+14,20,daily routine,singular,present,The busy father who read the recipe that was new meticulously makes breakfast for the kids.,13,nested_subject_d,332
+14,21,daily routine,singular,present,The father who his sister who the vet advised assists makes breakfast for the kids.,15,nested_object_a,333
+14,22,daily routine,singular,present,The father who his sister who the vet advised assists meticulously makes breakfast for the kids.,9,nested_object_b,334
+14,23,daily routine,singular,present,The busy father who his sister who the vet advised assists makes breakfast for the kids.,14,nested_object_c,335
+14,24,daily routine,singular,present,The busy father who his sister who the vet advised assists meticulously makes breakfast for the kids.,14,nested_object_d,336
+15,1,emotion,singular,present,The boy embraces the tender touch.,6,baseline_a,337
+15,2,emotion,singular,present,The boy gently embraces the tender touch.,7,baseline_b,338
+15,3,emotion,singular,present,The compassionate boy embraces the tender touch.,7,baseline_c,339
+15,4,emotion,singular,present,The compassionate boy gently embraces the tender touch.,8,baseline_d,340
+15,5,emotion,singular,present,The boy in the quiet corner embraces the tender touch.,10,control_a,341
+15,6,emotion,singular,present,The boy in the quiet corner gently embraces the tender touch.,11,control_b,342
+15,7,emotion,singular,present,The compassionate boy in the quiet corner embraces the tender touch.,11,control_c,343
+15,8,emotion,singular,present,The compassionate boy in the quiet corner gently embraces the tender touch.,12,control_d,344
+15,9,emotion,singular,present,The boy who cares about others embraces the tender touch.,10,standard_subject_a,345
+15,10,emotion,singular,present,The boy who cares about others gently embraces the tender touch.,11,standard_subject_b,346
+15,11,emotion,singular,present,The compassionate boy who cares about others embraces the tender touch.,11,standard_subject_c,347
+15,12,emotion,singular,present,The compassionate boy who cares about others gently embraces the tender touch.,12,standard_subject_d,348
+15,13,emotion,singular,present,The boy who the girl criticized embraces the tender touch.,10,standard_object_a,349
+15,14,emotion,singular,present,The boy who the girl criticized gently embraces the tender touch.,11,standard_object_b,350
+15,15,emotion,singular,present,The compassionate boy who the girl criticized embraces the tender touch.,11,standard_object_c,351
+15,16,emotion,singular,present,The compassionate boy who the girl criticized gently embraces the tender touch.,12,standard_object_d,352
+15,17,emotion,singular,present,The boy who read the story that brought joy embraces the tender touch.,13,nested_subject_a,353
+15,18,emotion,singular,present,The boy who read the story that brought joy gently embraces the tender touch.,14,nested_subject_b,354
+15,19,emotion,singular,present,The compassionate boy who read the story that brought joy embraces the tender touch.,14,nested_subject_c,355
+15,20,emotion,singular,present,The compassionate boy who read the story that brought joy gently embraces the tender touch.,15,nested_subject_d,356
+15,21,emotion,singular,present,The boy who the teacher who the students admired knows embraces the tender touch.,14,nested_object_a,357
+15,22,emotion,singular,present,The boy who the teacher who the students admired knows gently embraces the tender touch.,15,nested_object_b,358
+15,23,emotion,singular,present,The compassionate boy who the teacher who the students admired knows embraces the tender touch.,15,nested_object_c,359
+15,24,emotion,singular,present,The compassionate boy who the teacher who the students admired knows gently embraces the tender touch.,16,nested_object_d,360
+16,1,entertainment,plural,past,The actors played the roles on stage.,7,baseline_a,361
+16,2,entertainment,plural,past,The actors skillfully played the roles on stage.,8,baseline_b,362
+16,3,entertainment,plural,past,The experienced actors played the roles on stage.,8,baseline_c,363
+16,4,entertainment,plural,past,The experienced actors skillfully played the roles on stage.,9,baseline_d,364
+16,5,entertainment,plural,past,The actors in the theater played the roles on stage.,10,control_a,365
+16,6,entertainment,plural,past,The actors in the theater skillfully played the roles on stage.,11,control_b,366
+16,7,entertainment,plural,past,The experienced actors in the theater played the roles on stage.,11,control_c,367
+16,8,entertainment,plural,past,The experienced actors in the theater skillfully played the roles on stage.,12,control_d,368
+16,9,entertainment,plural,past,The actors who studied their lines played the roles on stage.,11,standard_subject_a,369
+16,10,entertainment,plural,past,The actors who studied their lines skillfully played the roles on stage.,12,standard_subject_b,370
+16,11,entertainment,plural,past,The experienced actors who studied their lines played the roles on stage.,12,standard_subject_c,371
+16,12,entertainment,plural,past,The experienced actors who studied their lines skillfully played the roles on stage.,13,standard_subject_d,372
+16,13,entertainment,plural,past,The actors who the directors trained played the roles on stage.,11,standard_object_a,373
+16,14,entertainment,plural,past,The actors who the directors trained skillfully played the roles on stage.,12,standard_object_b,374
+16,15,entertainment,plural,past,The experienced actors who the directors trained played the roles on stage.,12,standard_object_c,375
+16,16,entertainment,plural,past,The experienced actors who the directors trained skillfully played the roles on stage.,13,standard_object_d,376
+16,17,entertainment,plural,past,The actors who mastered the scenes that had complex dialogue played the roles on stage.,15,nested_subject_a,377
+16,18,entertainment,plural,past,The actors who mastered the scenes that had complex dialogue skillfully played the roles on stage.,16,nested_subject_b,378
+16,19,entertainment,plural,past,The experienced actors who mastered the scenes that had complex dialogue played the roles on stage.,16,nested_subject_c,379
+16,20,entertainment,plural,past,The experienced actors who mastered the scenes that had complex dialogue skillfully played the roles on stage.,17,nested_subject_d,380
+16,21,entertainment,plural,past,The actors who the assistants who the producers trusted helped played the roles on stage.,15,nested_object_a,381
+16,22,entertainment,plural,past,The actors who the assistants who the producers trusted helped skillfully played the roles on stage.,16,nested_object_b,382
+16,23,entertainment,plural,past,The experienced actors who the assistants who the producers trusted helped played the roles on stage.,16,nested_object_c,383
+16,24,entertainment,plural,past,The experienced actors who the assistants who the producers trusted helped skillfully played the roles on stage.,17,nested_object_d,384
+17,15,entertainment,plural,present,People watch movies.,3,baseline_a,385
+17,16,entertainment,plural,present,People carefully watch movies.,4,baseline_b,386
+17,17,entertainment,plural,present,Young people watch movies.,4,baseline_c,387
+17,18,entertainment,plural,present,Young people carefully watch movies.,5,baseline_d,388
+17,19,entertainment,plural,present,People at the theater watch movies.,6,control_a,389
+17,20,entertainment,plural,present,People at the theater carefully watch movies.,7,control_b,390
+17,21,entertainment,plural,present,Young people at the theater watch movies.,7,control_c,391
+17,22,entertainment,plural,present,Young people at the theater carefully watch movies.,8,control_d,392
+17,23,entertainment,plural,present,People who love Hollywood watch movies.,6,standard_subject_a,393
+17,24,entertainment,plural,present,People who love Hollywood carefully watch movies.,7,standard_subject_b,394
+17,25,entertainment,plural,present,Young people who love Hollywood watch movies.,7,standard_subject_c,395
+17,26,entertainment,plural,present,Young people who love Hollywood carefully watch movies.,8,standard_subject_d,396
+17,27,entertainment,plural,present,People who the critics hate watch movies.,7,standard_object_a,397
+17,28,entertainment,plural,present,People who the critics hate carefully watch movies.,8,standard_object_b,398
+17,29,entertainment,plural,present,Young people who the critics hate watch movies.,8,standard_object_c,399
+17,30,entertainment,plural,present,Young people who the critics hate carefully watch movies.,9,standard_object_d,400
+17,31,entertainment,plural,present,People who saw the posters that were funny watch movies.,10,nested_subject_a,401
+17,32,entertainment,plural,present,People who saw the posters that were funny carefully watch movies.,11,nested_subject_b,402
+17,33,entertainment,plural,present,Young people who saw the posters that were funny watch movies.,11,nested_subject_c,403
+17,34,entertainment,plural,present,Young people who saw the posters that were funny carefully watch movies.,12,nested_subject_d,404
+17,35,entertainment,plural,present,People who the friends who the artists invited accompany watch movies.,11,nested_object_a,405
+17,36,entertainment,plural,present,People who the friends who the artists invited accompany carefully watch movies.,12,nested_object_b,406
+17,37,entertainment,plural,present,Young people who the friends who the artists invited accompany watch movies.,12,nested_object_c,407
+17,38,entertainment,plural,present,Young people who the friends who the artists invited accompany carefully watch movies.,13,nested_object_d,408
+18,1,entertainment,singular,present,The kid plays a board game.,6,baseline_a,409
+18,2,entertainment,singular,present,The kid clumsily plays a board game.,7,baseline_b,410
+18,3,entertainment,singular,present,The smart kid plays a board game.,7,baseline_c,411
+18,4,entertainment,singular,present,The smart kid clumsily plays a board game.,8,baseline_d,412
+18,5,entertainment,singular,present,The kid in the hallway plays a board game.,9,control_a,413
+18,6,entertainment,singular,present,The kid in the hallway clumsily plays a board game.,10,control_b,414
+18,7,entertainment,singular,present,The smart kid in the hallway plays a board game.,10,control_c,415
+18,8,entertainment,singular,present,The smart kid in the hallway clumsily plays a board game.,11,control_d,416
+18,9,entertainment,singular,present,The kid who likes puzzles plays a board game.,9,standard_subject_a,417
+18,10,entertainment,singular,present,The kid who likes puzzles clumsily plays a board game.,10,standard_subject_b,418
+18,11,entertainment,singular,present,The smart kid who likes puzzles plays a board game.,10,standard_subject_c,419
+18,12,entertainment,singular,present,The smart kid who likes puzzles clumsily plays a board game.,11,standard_subject_d,420
+18,13,entertainment,singular,present,The kid who the coach trained plays a board game.,10,standard_object_a,421
+18,14,entertainment,singular,present,The kid who the coach trained clumsily plays a board game.,11,standard_object_b,422
+18,15,entertainment,singular,present,The smart kid who the coach trained plays a board game.,11,standard_object_c,423
+18,16,entertainment,singular,present,The smart kid who the coach trained clumsily plays a board game.,12,standard_object_d,424
+18,17,entertainment,singular,present,The kid who watched the cartoon that was on the TV plays a board game.,15,nested_subject_a,425
+18,18,entertainment,singular,present,The kid who watched the cartoon that was on the TV clumsily plays a board game.,16,nested_subject_b,426
+18,19,entertainment,singular,present,The smart kid who watched the cartoon that was on the TV plays a board game.,16,nested_subject_c,427
+18,20,entertainment,singular,present,The smart kid who watched the cartoon that was on the TV clumsily plays a board game.,17,nested_subject_d,428
+18,21,entertainment,singular,present,The kid who the teacher who the principal chose recommended plays a board game.,14,nested_object_a,429
+18,22,entertainment,singular,present,The kid who the teacher who the principal chose recommended clumsily plays a board game.,15,nested_object_b,430
+18,23,entertainment,singular,present,The smart kid who the teacher who the principal chose recommended plays a board game.,15,nested_object_c,431
+18,24,entertainment,singular,present,The smart kid who the teacher who the principal chose recommended clumsily plays a board game.,16,nested_object_d,432
+19,1,food,plural,past,The chefs cooked the fresh vegetables.,5,baseline_a,433
+19,2,food,plural,past,The chefs thoroughly cooked the fresh vegetables.,6,baseline_b,434
+19,3,food,plural,past,The experienced chefs cooked the fresh vegetables.,6,baseline_c,435
+19,4,food,plural,past,The experienced chefs thoroughly cooked the fresh vegetables.,7,baseline_d,436
+19,5,food,plural,past,The chefs in the kitchens cooked the fresh vegetables.,7,control_a,437
+19,6,food,plural,past,The chefs in the kitchens thoroughly cooked the fresh vegetables.,8,control_b,438
+19,7,food,plural,past,The experienced chefs in the kitchens cooked the fresh vegetables.,8,control_c,439
+19,8,food,plural,past,The experienced chefs in the kitchens thoroughly cooked the fresh vegetables.,9,control_d,440
+19,9,food,plural,past,The chefs who attended schools cooked the fresh vegetables.,8,standard_subject_a,441
+19,10,food,plural,past,The chefs who attended schools thoroughly cooked the fresh vegetables.,9,standard_subject_b,442
+19,11,food,plural,past,The experienced chefs who attended schools cooked the fresh vegetables.,9,standard_subject_c,443
+19,12,food,plural,past,The experienced chefs who attended schools thoroughly cooked the fresh vegetables.,10,standard_subject_d,444
+19,13,food,plural,past,The chefs who the kitchen assistant admired cooked the fresh vegetables.,9,standard_object_a,445
+19,14,food,plural,past,The chefs who the kitchen assistant admired thoroughly cooked the fresh vegetables.,10,standard_object_b,446
+19,15,food,plural,past,The experienced chefs who the kitchen assistant admired cooked the fresh vegetables.,10,standard_object_c,447
+19,16,food,plural,past,The experienced chefs who the kitchen assistant admired thoroughly cooked the fresh vegetables.,11,standard_object_d,448
+19,17,food,plural,past,The chefs who elaborated the recipes that are unique cooked the fresh vegetables.,12,nested_subject_a,449
+19,18,food,plural,past,The chefs who elaborated the recipes that are unique thoroughly cooked the fresh vegetables.,13,nested_subject_b,450
+19,19,food,plural,past,The experienced chefs who elaborated the recipes that are unique cooked the fresh vegetables.,13,nested_subject_c,451
+19,20,food,plural,past,The experienced chefs who elaborated the recipes that are unique thoroughly cooked the fresh vegetables.,14,nested_subject_d,452
+19,21,food,plural,past,The chefs who the guests who food critics served invited cooked the fresh vegetables.,13,nested_object_a,453
+19,22,food,plural,past,The chefs who the guests who food critics served invited thoroughly cooked the fresh vegetables.,14,nested_object_b,454
+19,23,food,plural,past,The experienced chefs who the guests who food critics served invited cooked the fresh vegetables.,14,nested_object_c,455
+19,24,food,plural,past,The experienced chefs who the guests who food critics served invited thoroughly cooked the fresh vegetables.,15,nested_object_d,456
+20,1,food,plural,present,The chefs prepare the salads.,5,baseline_a,457
+20,2,food,plural,present,The chefs quickly prepare the salads.,6,baseline_b,458
+20,3,food,plural,present,The skilled chefs prepare the salads.,6,baseline_c,459
+20,4,food,plural,present,The skilled chefs quickly prepare the salads.,7,baseline_d,460
+20,5,food,plural,present,The chefs in the kitchen prepare the salads.,8,control_a,461
+20,6,food,plural,present,The chefs in the kitchen quickly prepare the salads.,9,control_b,462
+20,7,food,plural,present,The skilled chefs in the kitchen prepare the salads.,9,control_c,463
+20,8,food,plural,present,The skilled chefs in the kitchen quickly prepare the salads.,10,control_d,464
+20,9,food,plural,present,The chefs who cook all day prepare the salads.,9,standard_subject_a,465
+20,10,food,plural,present,The chefs who cook all day quickly prepare the salads.,10,standard_subject_b,466
+20,11,food,plural,present,The skilled chefs who cook all day prepare the salads.,10,standard_subject_c,467
+20,12,food,plural,present,The skilled chefs who cook all day quickly prepare the salads.,11,standard_subject_d,468
+20,13,food,plural,present,The chefs who the managers supervise prepare the salads.,9,standard_object_a,469
+20,14,food,plural,present,The chefs who the managers supervise quickly prepare the salads.,10,standard_object_b,470
+20,15,food,plural,present,The skilled chefs who the managers supervise prepare the salads.,10,standard_object_c,471
+20,16,food,plural,present,The skilled chefs who the managers supervise quickly prepare the salads.,11,standard_object_d,472
+20,17,food,plural,present,The chefs who prepare the meals that meet the standards prepare the salads.,13,nested_subject_a,473
+20,18,food,plural,present,The chefs who prepare the meals that meet the standards quickly prepare the salads.,14,nested_subject_b,474
+20,19,food,plural,present,The skilled chefs who prepare the meals that meet the standards prepare the salads.,14,nested_subject_c,475
+20,20,food,plural,present,The skilled chefs who prepare the meals that meet the standards quickly prepare the salads.,15,nested_subject_d,476
+20,21,food,plural,present,The chefs who the sous chefs who the restaurants hired train prepare the salads.,14,nested_object_a,477
+20,22,food,plural,present,The chefs who the sous chefs who the restaurants hired train quickly prepare the salads.,15,nested_object_b,478
+20,23,food,plural,present,The skilled chefs who the sous chefs who the restaurants hired train prepare the salads.,15,nested_object_c,479
+20,24,food,plural,present,The skilled chefs who the sous chefs who the restaurants hired train quickly prepare the salads.,16,nested_object_d,480
+21,1,food,singular,past,The bookseller ate the fruit.,5,baseline_a,481
+21,2,food,singular,past,The bookseller partially ate the fruit.,6,baseline_b,482
+21,3,food,singular,past,The hungry bookseller ate the fruit.,6,baseline_c,483
+21,4,food,singular,past,The hungry bookseller partially ate the fruit.,7,baseline_d,484
+21,5,food,singular,past,The bookseller at the mall ate the fruit.,7,control_a,485
+21,6,food,singular,past,The bookseller at the mall partially ate the fruit.,8,control_b,486
+21,7,food,singular,past,The hungry bookseller at the mall ate the fruit.,8,control_c,487
+21,8,food,singular,past,The hungry bookseller at the mall partially ate the fruit.,9,control_d,488
+21,9,food,singular,past,The bookseller who ordered the books ate the fruit.,8,standard_subject_a,489
+21,10,food,singular,past,The bookseller who ordered the books partially ate the fruit.,9,standard_subject_b,490
+21,11,food,singular,past,The hungry bookseller who ordered the books ate the fruit.,9,standard_subject_c,491
+21,12,food,singular,past,The hungry bookseller who ordered the books partially ate the fruit.,10,standard_subject_d,492
+21,13,food,singular,past,The bookseller who the farmer helped ate the fruit.,9,standard_object_a,493
+21,14,food,singular,past,The bookseller who the farmer helped partially ate the fruit.,10,standard_object_b,494
+21,15,food,singular,past,The hungry bookseller who the farmer helped ate the fruit.,10,standard_object_c,495
+21,16,food,singular,past,The hungry bookseller who the farmer helped partially ate the fruit.,11,standard_object_d,496
+21,17,food,singular,past,The bookseller who washed the apple that was ripe ate the fruit.,12,nested_subject_a,497
+21,18,food,singular,past,The bookseller who washed the apple that was ripe partially ate the fruit.,13,nested_subject_b,498
+21,19,food,singular,past,The hungry bookseller who washed the apple that was ripe ate the fruit.,13,nested_subject_c,499
+21,20,food,singular,past,The hungry bookseller who washed the apple that was ripe partially ate the fruit.,14,nested_subject_d,500
+21,21,food,singular,past,The bookseller who the boy who the librarian recommended trusted ate the fruit.,13,nested_object_a,501
+21,22,food,singular,past,The bookseller who the boy who the librarian recommended trusted partially ate the fruit.,14,nested_object_b,502
+21,23,food,singular,past,The hungry bookseller who the boy who the librarian recommended trusted ate the fruit.,14,nested_object_c,503
+21,24,food,singular,past,The hungry bookseller who the boy who the librarian recommended trusted partially ate the fruit.,15,nested_object_d,504
+22,1,food,singular,present,The baker makes the cake.,5,baseline_a,505
+22,2,food,singular,present,The baker carefully makes the cake.,6,baseline_b,506
+22,3,food,singular,present,The skilled baker makes the cake.,6,baseline_c,507
+22,4,food,singular,present,The skilled baker carefully makes the cake.,7,baseline_d,508
+22,5,food,singular,present,The baker in the kitchen makes the cake.,8,control_a,509
+22,6,food,singular,present,The baker in the kitchen carefully makes the cake.,9,control_b,510
+22,7,food,singular,present,The skilled baker in the kitchen makes the cake.,9,control_c,511
+22,8,food,singular,present,The skilled baker in the kitchen carefully makes the cake.,10,control_d,512
+22,9,food,singular,present,The baker who wakes up early makes the cake.,9,standard_subject_a,513
+22,10,food,singular,present,The baker who wakes up early carefully makes the cake.,10,standard_subject_b,514
+22,11,food,singular,present,The skilled baker who wakes up early makes the cake.,10,standard_subject_c,515
+22,12,food,singular,present,The skilled baker who wakes up early carefully makes the cake.,11,standard_subject_d,516
+22,13,food,singular,present,The baker who the owner hired makes the cake.,9,standard_object_a,517
+22,14,food,singular,present,The baker who the owner hired carefully makes the cake.,10,standard_object_b,518
+22,15,food,singular,present,The skilled baker who the owner hired makes the cake.,10,standard_object_c,519
+22,16,food,singular,present,The skilled baker who the owner hired carefully makes the cake.,11,standard_object_d,520
+22,17,food,singular,present,The baker who reads the recipe that has many steps makes the cake.,13,nested_subject_a,521
+22,18,food,singular,present,The baker who reads the recipe that has many steps carefully makes the cake.,14,nested_subject_b,522
+22,19,food,singular,present,The skilled baker who reads the recipe that has many steps makes the cake.,14,nested_subject_c,523
+22,20,food,singular,present,The skilled baker who reads the recipe that has many steps carefully makes the cake.,15,nested_subject_d,524
+22,21,food,singular,present,The baker who the manager who the store recommended promoted makes the cake.,13,nested_object_a,525
+22,22,food,singular,present,The baker who the manager who the store recommended promoted carefully makes the cake.,14,nested_object_b,526
+22,23,food,singular,present,The skilled baker who the manager who the store recommended promoted makes the cake.,14,nested_object_c,527
+22,24,food,singular,present,The skilled baker who the manager who the store recommended promoted carefully makes the cake.,15,nested_object_d,528
+23,1,health,singular,past,The nurse gave the child medicine.,6,baseline_a,529
+23,2,health,singular,past,The nurse carelessly gave the child medicine.,7,baseline_b,530
+23,3,health,singular,past,The experienced nurse gave the child medicine.,7,baseline_c,531
+23,4,health,singular,past,The experienced nurse carelessly gave the child medicine.,8,baseline_d,532
+23,5,health,singular,past,The nurse in the ward gave the child medicine.,9,control_a,533
+23,6,health,singular,past,The nurse in the ward carelessly gave the child medicine.,10,control_b,534
+23,7,health,singular,past,The experienced nurse in the ward gave the child medicine.,10,control_c,535
+23,8,health,singular,past,The experienced nurse in the ward carelessly gave the child medicine.,11,control_d,536
+23,9,health,singular,past,The nurse who studied abroad gave the child medicine.,9,standard_subject_a,537
+23,10,health,singular,past,The nurse who studied abroad carelessly gave the child medicine.,10,standard_subject_b,538
+23,11,health,singular,past,The experienced nurse who studied abroad gave the child medicine.,10,standard_subject_c,539
+23,12,health,singular,past,The experienced nurse who studied abroad carelessly gave the child medicine.,11,standard_subject_d,540
+23,13,health,singular,past,The nurse whom the doctor trusted gave the child medicine.,10,standard_object_a,541
+23,14,health,singular,past,The nurse whom the doctor trusted carelessly gave the child medicine.,11,standard_object_b,542
+23,15,health,singular,past,The experienced nurse whom the doctor trusted gave the child medicine.,11,standard_object_c,543
+23,16,health,singular,past,The experienced nurse whom the doctor trusted carelessly gave the child medicine.,12,standard_object_d,544
+23,17,health,singular,past,The nurse who studied the file that was misplaced gave the child medicine.,13,nested_subject_a,545
+23,18,health,singular,past,The nurse who studied the file that was misplaced carelessly gave the child medicine.,14,nested_subject_b,546
+23,19,health,singular,past,The experienced nurse who studied the file that was misplaced gave the child medicine.,14,nested_subject_c,547
+23,20,health,singular,past,The experienced nurse who studied the file that was misplaced carelessly gave the child medicine.,15,nested_subject_d,548
+23,21,health,singular,past,The nurse whom the doctor whom the hospital employed supervised gave the child medicine.,14,nested_object_a,549
+23,22,health,singular,past,The nurse whom the doctor whom the hospital employed supervised carelessly gave the child medicine.,15,nested_object_b,550
+23,23,health,singular,past,The experienced nurse whom the doctor whom the hospital employed supervised gave the child medicine.,15,nested_object_c,551
+23,24,health,singular,past,The experienced nurse whom the doctor whom the hospital employed supervised carelessly gave the child medicine.,16,nested_object_d,552
+24,1,health,singular,present,The patient endures pain.,4,baseline_a,553
+24,2,health,singular,present,The patient bravely endures pain.,5,baseline_b,554
+24,3,health,singular,present,The sick patient endures pain.,5,baseline_c,555
+24,4,health,singular,present,The sick patient bravely endures pain.,6,baseline_d,556
+24,5,health,singular,present,The patient in bed endures pain.,6,control_a,557
+24,6,health,singular,present,The patient in bed bravely endures pain.,7,control_b,558
+24,7,health,singular,present,The sick patient in bed endures pain.,7,control_c,559
+24,8,health,singular,present,The sick patient in bed bravely endures pain.,8,control_d,560
+24,9,health,singular,present,The patient who coughs endures pain.,6,standard_subject_a,561
+24,10,health,singular,present,The patient who coughs bravely endures pain.,7,standard_subject_b,562
+24,11,health,singular,present,The sick patient who coughs endures pain.,7,standard_subject_c,563
+24,12,health,singular,present,The sick patient who coughs bravely endures pain.,8,standard_subject_d,564
+24,13,health,singular,present,The patient who the doctor visited endures pain.,8,standard_object_a,565
+24,14,health,singular,present,The patient who the doctor visited bravely endures pain.,9,standard_object_b,566
+24,15,health,singular,present,The sick patient who the doctor visited endures pain.,9,standard_object_c,567
+24,16,health,singular,present,The sick patient who the doctor visited bravely endures pain.,10,standard_object_d,568
+24,17,health,singular,present,The patient who read the book that had a lot of advice endures pain.,14,nested_subject_a,569
+24,18,health,singular,present,The patient who read the book that had a lot of advice bravely endures pain.,15,nested_subject_b,570
+24,19,health,singular,present,The sick patient who read the book that had a lot of advice endures pain.,15,nested_subject_c,571
+24,20,health,singular,present,The sick patient who read the book that had a lot of advice bravely endures pain.,16,nested_subject_d,572
+24,21,health,singular,present,The patient who the nurse who the hospital hired cared for endures pain.,13,nested_object_a,573
+24,22,health,singular,present,The patient who the nurse who the hospital hired cared for bravely endures pain.,14,nested_object_b,574
+24,23,health,singular,present,The sick patient who the nurse who the hospital hired cared for endures pain.,14,nested_object_c,575
+24,24,health,singular,present,The sick patient who the nurse who the hospital hired cared for bravely endures pain.,15,nested_object_d,576
+25,1,housing,plural,past,The plumbers fixed clogged pipes.,5,baseline_a,577
+25,2,housing,plural,past,The plumbers carefully fixed clogged pipes.,6,baseline_b,578
+25,3,housing,plural,past,The professional plumbers fixed clogged pipes.,6,baseline_c,579
+25,4,housing,plural,past,The professional plumbers carefully fixed clogged pipes.,7,baseline_d,580
+25,5,housing,plural,past,The plumbers under the sink fixed clogged pipes.,8,control_a,581
+25,6,housing,plural,past,The plumbers under the sink carefully fixed clogged pipes.,9,control_b,582
+25,7,housing,plural,past,The professional plumbers under the sink fixed clogged pipes.,9,control_c,583
+25,8,housing,plural,past,The professional plumbers under the sink carefully fixed clogged pipes.,10,control_d,584
+25,9,housing,plural,past,The plumbers who studied diagrams fixed clogged pipes.,8,standard_subject_a,585
+25,10,housing,plural,past,The plumbers who studied diagrams carefully fixed clogged pipes.,9,standard_subject_b,586
+25,11,housing,plural,past,The professional plumbers who studied diagrams fixed clogged pipes.,9,standard_subject_c,587
+25,12,housing,plural,past,The professional plumbers who studied diagrams carefully fixed clogged pipes.,10,standard_subject_d,588
+25,13,housing,plural,past,The plumbers who the constructors hired fixed clogged pipes.,9,standard_object_a,589
+25,14,housing,plural,past,The plumbers who the constructors hired carefully fixed clogged pipes.,10,standard_object_b,590
+25,15,housing,plural,past,The professional plumbers who the constructors hired fixed clogged pipes.,10,standard_object_c,591
+25,16,housing,plural,past,The professional plumbers who the constructors hired carefully fixed clogged pipes.,11,standard_object_d,592
+25,17,housing,plural,past,The plumbers who checked the pumps that were sold online fixed clogged pipes.,13,nested_subject_a,593
+25,18,housing,plural,past,The plumbers who checked the pumps that were sold online carefully fixed clogged pipes.,14,nested_subject_b,594
+25,19,housing,plural,past,The professional plumbers who checked the pumps that were sold online fixed clogged pipes.,14,nested_subject_c,595
+25,20,housing,plural,past,The professional plumbers who checked the pumps that were sold online carefully fixed clogged pipes.,15,nested_subject_d,596
+25,21,housing,plural,past,The plumbers who the technicians who the city council called met fixed clogged pipes.,14,nested_object_a,597
+25,22,housing,plural,past,The plumbers who the technicians who the city council called met carefully fixed clogged pipes.,15,nested_object_b,598
+25,23,housing,plural,past,The professional plumbers who the technicians who the city council called met fixed clogged pipes.,15,nested_object_c,599
+25,24,housing,plural,past,The professional plumbers who the technicians who the city council called met carefully fixed clogged pipes.,16,nested_object_d,600
+26,1,housing,plural,present,Painters decorate the new houses.,5,baseline_a,601
+26,2,housing,plural,present,Painters gradually decorate the new houses.,6,baseline_b,602
+26,3,housing,plural,present,Skilled painters decorate the new houses.,6,baseline_c,603
+26,4,housing,plural,present,Skilled painters gradually decorate the new houses.,7,baseline_d,604
+26,5,housing,plural,present,Painters in the big studios decorate the new houses.,9,control_a,605
+26,6,housing,plural,present,Painters in the big studios gradually decorate the new houses.,10,control_b,606
+26,7,housing,plural,present,Skilled painters in the big studios decorate the new houses.,10,control_c,607
+26,8,housing,plural,present,Skilled painters in the big studios gradually decorate the new houses.,11,control_d,608
+26,9,housing,plural,present,Painters who study art decorate the new houses.,8,standard_subject_a,609
+26,10,housing,plural,present,Painters who study art gradually decorate the new houses.,9,standard_subject_b,610
+26,11,housing,plural,present,Skilled painters who study art decorate the new houses.,9,standard_subject_c,611
+26,12,housing,plural,present,Skilled painters who study art gradually decorate the new houses.,10,standard_subject_d,612
+26,13,housing,plural,present,Painters who the architects hire decorate the new houses.,9,standard_object_a,613
+26,14,housing,plural,present,Painters who the architects hire gradually decorate the new houses.,10,standard_object_b,614
+26,15,housing,plural,present,Skilled painters who the architects hire decorate the new houses.,10,standard_object_c,615
+26,16,housing,plural,present,Skilled painters who the architects hire gradually decorate the new houses.,11,standard_object_d,616
+26,17,housing,plural,present,Painters who learn techniques that are popular abroad decorate the new houses.,13,nested_subject_a,617
+26,18,housing,plural,present,Painters who learn techniques that are popular abroad gradually decorate the new houses.,13,nested_subject_b,618
+26,19,housing,plural,present,Skilled painters who learn techniques that are popular abroad decorate the new houses.,13,nested_subject_c,619
+26,20,housing,plural,present,Skilled painters who learn techniques that are popular abroad gradually decorate the new houses.,14,nested_subject_d,620
+26,21,housing,plural,present,Painters who the managers who the owners call promote decorate the new houses.,13,nested_object_a,621
+26,22,housing,plural,present,Painters who the managers who the owners call promote gradually decorate the new houses.,14,nested_object_b,622
+26,23,housing,plural,present,Skilled painters who the managers who the owners call promote decorate the new houses.,14,nested_object_c,623
+26,24,housing,plural,present,Skilled painters who the managers who the owners call promote gradually decorate the new houses.,15,nested_object_d,624
+27,1,housing,singular,past,The handyman painted the old door.,6,baseline_a,625
+27,2,housing,singular,past,The handyman quickly painted the old door.,7,baseline_b,626
+27,3,housing,singular,past,The skilled handyman painted the old door.,7,baseline_c,627
+27,4,housing,singular,past,The skilled handyman quickly painted the old door.,8,baseline_d,628
+27,5,housing,singular,past,The handyman in the house painted the old door.,9,control_a,629
+27,6,housing,singular,past,The handyman in the house quickly painted the old door.,10,control_b,630
+27,7,housing,singular,past,The skilled handyman in the house painted the old door.,10,control_c,631
+27,8,housing,singular,past,The skilled handyman in the house quickly painted the old door.,11,control_d,632
+27,9,housing,singular,past,The handyman who learned fast painted the old door.,9,standard_subject_a,633
+27,10,housing,singular,past,The handyman who learned fast quickly painted the old door.,10,standard_subject_b,634
+27,11,housing,singular,past,The skilled handyman who learned fast painted the old door.,10,standard_subject_c,635
+27,12,housing,singular,past,The skilled handyman who learned fast quickly painted the old door.,11,standard_subject_d,636
+27,13,housing,singular,past,The handyman who the client paid painted the old door.,10,standard_object_a,637
+27,14,housing,singular,past,The handyman who the client paid quickly painted the old door.,11,standard_object_b,638
+27,15,housing,singular,past,The skilled handyman who the client paid painted the old door.,11,standard_object_c,639
+27,16,housing,singular,past,The skilled handyman who the client paid quickly painted the old door.,12,standard_object_d,640
+27,17,housing,singular,past,The handyman who read the manual that was written in French painted the old door.,15,nested_subject_a,641
+27,18,housing,singular,past,The handyman who read the manual that was written in French quickly painted the old door.,16,nested_subject_b,642
+27,19,housing,singular,past,The skilled handyman who read the manual that was written in French painted the old door.,16,nested_subject_c,643
+27,20,housing,singular,past,The skilled handyman who read the manual that was written in French quickly painted the old door.,17,nested_subject_d,644
+27,21,housing,singular,past,The handyman who the homeowner who the broker recommended trusted painted the old door.,14,nested_object_a,645
+27,22,housing,singular,past,The handyman who the homeowner who the broker recommended trusted quickly painted the old door.,15,nested_object_b,646
+27,23,housing,singular,past,The skilled handyman who the homeowner who the broker recommended trusted painted the old door.,15,nested_object_c,647
+27,24,housing,singular,past,The skilled handyman who the homeowner who the broker recommended trusted quickly painted the old door.,16,nested_object_d,648
+28,1,housing,singular,present,The neighbor fixes the chair.,5,baseline_a,649
+28,2,housing,singular,present,The neighbor carefully fixes the chair.,6,baseline_b,650
+28,3,housing,singular,present,The experienced neighbor fixes the chair.,6,baseline_c,651
+28,4,housing,singular,present,The experienced neighbor carefully fixes the chair.,7,baseline_d,652
+28,5,housing,singular,present,The neighbor in the house fixes the chair.,8,control_a,653
+28,6,housing,singular,present,The neighbor in the house carefully fixes the chair.,9,control_b,654
+28,7,housing,singular,present,The experienced neighbor in the house fixes the chair.,9,control_c,655
+28,8,housing,singular,present,The experienced neighbor in the house carefully fixes the chair.,10,control_d,656
+28,9,housing,singular,present,The neighbor who studied hard fixes the chair.,8,standard_subject_a,657
+28,10,housing,singular,present,The neighbor who studied hard carefully fixes the chair.,9,standard_subject_b,658
+28,11,housing,singular,present,The experienced neighbor who studied hard fixes the chair.,9,standard_subject_c,659
+28,12,housing,singular,present,The experienced neighbor who studied hard carefully fixes the chair.,10,standard_subject_d,660
+28,13,housing,singular,present,The neighbor who the owner hired fixes the chair.,9,standard_object_a,661
+28,14,housing,singular,present,The neighbor who the owner hired carefully fixes the chair.,10,standard_object_b,662
+28,15,housing,singular,present,The experienced neighbor who the owner hired fixes the chair.,10,standard_object_c,663
+28,16,housing,singular,present,The experienced neighbor who the owner hired carefully fixes the chair.,11,standard_object_d,664
+28,17,housing,singular,present,The neighbor who read the manual that was in the box fixes the chair.,14,nested_subject_a,665
+28,18,housing,singular,present,The neighbor who read the manual that was in the box carefully fixes the chair.,15,nested_subject_b,666
+28,19,housing,singular,present,The experienced neighbor who read the manual that was in the box fixes the chair.,15,nested_subject_c,667
+28,20,housing,singular,present,The experienced neighbor who read the manual that was in the box carefully fixes the chair.,16,nested_subject_d,668
+28,21,housing,singular,present,The neighbor who the contractor who the client recommended helped fixes the chair.,13,nested_object_a,669
+28,22,housing,singular,present,The neighbor who the contractor who the client recommended helped carefully fixes the chair.,14,nested_object_b,670
+28,23,housing,singular,present,The experienced neighbor who the contractor who the client recommended helped fixes the chair.,14,nested_object_c,671
+28,24,housing,singular,present,The experienced neighbor who the contractor who the client recommended helped carefully fixes the chair.,15,nested_object_d,672
+29,1,humanity,plural,past,Historians collected the documents.,4,baseline_a,673
+29,2,humanity,plural,past,Historians carefully collected the documents.,5,baseline_b,674
+29,3,humanity,plural,past,Experienced historians collected the documents.,5,baseline_c,675
+29,4,humanity,plural,past,Experienced historians carefully collected the documents.,6,baseline_d,676
+29,5,humanity,plural,past,Historians in the library collected the documents.,7,control_a,677
+29,6,humanity,plural,past,Historians in the library carefully collected the documents.,8,control_b,678
+29,7,humanity,plural,past,Experienced historians in the library collected the documents.,8,control_c,679
+29,8,humanity,plural,past,Experienced historians in the library carefully collected the documents.,9,control_d,680
+29,9,humanity,plural,past,Historians who worked late collected the documents.,7,standard_subject_a,681
+29,10,humanity,plural,past,Historians who worked late carefully collected the documents.,8,standard_subject_b,682
+29,11,humanity,plural,past,Experienced historians who worked late collected the documents.,8,standard_subject_c,683
+29,12,humanity,plural,past,Experienced historians who worked late carefully collected the documents.,9,standard_subject_d,684
+29,13,humanity,plural,past,Historians who the students admired collected the documents.,8,standard_object_a,685
+29,14,humanity,plural,past,Historians who the students admired carefully collected the documents.,9,standard_object_b,686
+29,15,humanity,plural,past,Experienced historians who the students admired collected the documents.,9,standard_object_c,687
+29,16,humanity,plural,past,Experienced historians who the students admired carefully collected the documents.,10,standard_object_d,688
+29,17,humanity,plural,past,Historians who analyzed the books that contained the data collected the documents.,12,nested_subject_a,689
+29,18,humanity,plural,past,Historians who analyzed the books that contained the data carefully collected the documents.,13,nested_subject_b,690
+29,19,humanity,plural,past,Experienced historians who analyzed the books that contained the data collected the documents.,13,nested_subject_c,691
+29,20,humanity,plural,past,Experienced historians who analyzed the books that contained the data carefully collected the documents.,14,nested_subject_d,692
+29,21,humanity,plural,past,Historians who the scholars who the foundations sponsored respected collected the documents.,12,nested_object_a,693
+29,22,humanity,plural,past,Historians who the scholars who the foundations sponsored respected carefully collected the documents.,13,nested_object_b,694
+29,23,humanity,plural,past,Experienced historians who the scholars who the foundations sponsored respected collected the documents.,13,nested_object_c,695
+29,24,humanity,plural,past,Experienced historians who the scholars who the foundations sponsored respected carefully collected the documents.,14,nested_object_d,696
+30,1,humanity,plural,present,The artists paint the sculptures.,5,baseline_a,697
+30,2,humanity,plural,present,The artists carefully paint the sculptures.,6,baseline_b,698
+30,3,humanity,plural,present,The talented artists paint the sculptures.,6,baseline_c,699
+30,4,humanity,plural,present,The talented artists carefully paint the sculptures.,7,baseline_d,700
+30,5,humanity,plural,present,The artists in the studios paint the sculptures.,8,control_a,701
+30,6,humanity,plural,present,The artists in the studios carefully paint the sculptures.,9,control_b,702
+30,7,humanity,plural,present,The talented artists in the studios paint the sculptures.,9,control_c,703
+30,8,humanity,plural,present,The talented artists in the studios carefully paint the sculptures.,10,control_d,704
+30,9,humanity,plural,present,The artists who attended the workshops paint the sculptures.,9,standard_subject_a,705
+30,10,humanity,plural,present,The artists who attended the workshops carefully paint the sculptures.,10,standard_subject_b,706
+30,11,humanity,plural,present,The talented artists who attended the workshops paint the sculptures.,10,standard_subject_c,707
+30,12,humanity,plural,present,The talented artists who attended the workshops carefully paint the sculptures.,11,standard_subject_d,708
+30,13,humanity,plural,present,The artists who the curators interviewed paint the sculptures.,9,standard_object_a,709
+30,14,humanity,plural,present,The artists who the curators interviewed carefully paint the sculptures.,10,standard_object_b,710
+30,15,humanity,plural,present,The talented artists who the curators interviewed paint the sculptures.,10,standard_object_c,711
+30,16,humanity,plural,present,The talented artists who the curators interviewed carefully paint the sculptures.,11,standard_object_d,712
+30,17,humanity,plural,present,The artists who saw the designs that were exhibited paint the sculptures.,12,nested_subject_a,713
+30,18,humanity,plural,present,The artists who saw the designs that were exhibited carefully paint the sculptures.,13,nested_subject_b,714
+30,19,humanity,plural,present,The talented artists who saw the designs that were exhibited paint the sculptures.,13,nested_subject_c,715
+30,20,humanity,plural,present,The talented artists who saw the designs that were exhibited carefully paint the sculptures.,14,nested_subject_d,716
+30,21,humanity,plural,present,The artists who the collectors who the galleries recommended admire paint the sculptures.,13,nested_object_a,717
+30,22,humanity,plural,present,The artists who the collectors who the galleries recommended admire carefully paint the sculptures.,14,nested_object_b,718
+30,23,humanity,plural,present,The talented artists who the collectors who the galleries recommended admire paint the sculptures.,14,nested_object_c,719
+30,24,humanity,plural,present,The talented artists who the collectors who the galleries recommended admire carefully paint the sculptures.,15,nested_object_d,720
+31,1,humanity,singular,past,The historian wrote a new book.,6,baseline_a,721
+31,2,humanity,singular,past,The historian quickly wrote a new book.,7,baseline_b,722
+31,3,humanity,singular,past,The experienced historian wrote a new book.,7,baseline_c,723
+31,4,humanity,singular,past,The experienced historian quickly wrote a new book.,8,baseline_d,724
+31,5,humanity,singular,past,The historian in the library wrote a new book.,9,control_a,725
+31,6,humanity,singular,past,The historian in the library quickly wrote a new book.,10,control_b,726
+31,7,humanity,singular,past,The experienced historian in the library wrote a new book.,10,control_c,727
+31,8,humanity,singular,past,The experienced historian in the library quickly wrote a new book.,11,control_d,728
+31,9,humanity,singular,past,The historian who studied ancient civilizations wrote a new book.,10,standard_subject_a,729
+31,10,humanity,singular,past,The historian who studied ancient civilizations quickly wrote a new book.,11,standard_subject_b,730
+31,11,humanity,singular,past,The experienced historian who studied ancient civilizations wrote a new book.,11,standard_subject_c,731
+31,12,humanity,singular,past,The experienced historian who studied ancient civilizations quickly wrote a new book.,12,standard_subject_d,732
+31,13,humanity,singular,past,The historian who the researcher interviewed wrote a new book.,10,standard_object_a,733
+31,14,humanity,singular,past,The historian who the researcher interviewed quickly wrote a new book.,11,standard_object_b,734
+31,15,humanity,singular,past,The experienced historian who the researcher interviewed wrote a new book.,11,standard_object_c,735
+31,16,humanity,singular,past,The experienced historian who the researcher interviewed quickly wrote a new book.,12,standard_object_d,736
+31,17,humanity,singular,past,The historian who read the scroll that the monk found wrote a new book.,14,nested_subject_a,737
+31,18,humanity,singular,past,The historian who read the scroll that the monk found quickly wrote a new book.,15,nested_subject_b,738
+31,19,humanity,singular,past,The experienced historian who read the scroll that the monk found wrote a new book.,15,nested_subject_c,739
+31,20,humanity,singular,past,The experienced historian who read the scroll that the monk found quickly wrote a new book.,16,nested_subject_d,740
+31,21,humanity,singular,past,The historian who the professor who the university appointed consulted wrote a new book.,14,nested_object_a,741
+31,22,humanity,singular,past,The historian who the professor who the university appointed consulted quickly wrote a new book.,15,nested_object_b,742
+31,23,humanity,singular,past,The experienced historian who the professor who the university appointed consulted wrote a new book.,15,nested_object_c,743
+31,24,humanity,singular,past,The experienced historian who the professor who the university appointed consulted quickly wrote a new book.,16,nested_object_d,744
+32,1,humanity,singular,present,The historian writes the article.,5,baseline_a,745
+32,2,humanity,singular,present,The historian carefully writes the article.,6,baseline_b,746
+32,3,humanity,singular,present,The experienced historian writes the article.,6,baseline_c,747
+32,4,humanity,singular,present,The experienced historian carefully writes the article.,7,baseline_d,748
+32,5,humanity,singular,present,The historian in the library writes the article.,8,control_a,749
+32,6,humanity,singular,present,The historian in the library carefully writes the article.,9,control_b,750
+32,7,humanity,singular,present,The experienced historian in the library writes the article.,9,control_c,751
+32,8,humanity,singular,present,The experienced historian in the library carefully writes the article.,10,control_d,752
+32,9,humanity,singular,present,The historian who studied archives writes the article.,8,standard_subject_a,753
+32,10,humanity,singular,present,The historian who studied archives carefully writes the article.,9,standard_subject_b,754
+32,11,humanity,singular,present,The experienced historian who studied archives writes the article.,9,standard_subject_c,755
+32,12,humanity,singular,present,The experienced historian who studied archives carefully writes the article.,10,standard_subject_d,756
+32,13,humanity,singular,present,The historian who the editor assigned writes the article.,9,standard_object_a,757
+32,14,humanity,singular,present,The historian who the editor assigned carefully writes the article.,10,standard_object_b,758
+32,15,humanity,singular,present,The experienced historian who the editor assigned writes the article.,10,standard_object_c,759
+32,16,humanity,singular,present,The experienced historian who the editor assigned carefully writes the article.,11,standard_object_d,760
+32,17,humanity,singular,present,The historian who read the manuscript that was in storage writes the article.,13,nested_subject_a,761
+32,18,humanity,singular,present,The historian who read the manuscript that was in storage carefully writes the article.,14,nested_subject_b,762
+32,19,humanity,singular,present,The experienced historian who read the manuscript that was in storage writes the article.,14,nested_subject_c,763
+32,20,humanity,singular,present,The experienced historian who read the manuscript that was in storage carefully writes the article.,15,nested_subject_d,764
+32,21,humanity,singular,present,The historian who the colleague who the university hired recommends writes the article.,13,nested_object_a,765
+32,22,humanity,singular,present,The historian who the colleague who the university hired recommends carefully writes the article.,14,nested_object_b,766
+32,23,humanity,singular,present,The experienced historian who the colleague who the university hired recommends writes the article.,14,nested_object_c,767
+32,24,humanity,singular,present,The experienced historian who the colleague who the university hired recommends carefully writes the article.,15,nested_object_d,768
+33,1,nature,plural,present,The animals eat the tasty plants.,6,baseline_a,769
+33,2,nature,plural,present,The animals quickly eat the tasty plants.,7,baseline_b,770
+33,3,nature,plural,present,The big animals eat the tasty plants.,7,baseline_c,771
+33,4,nature,plural,present,The big animals quickly eat the tasty plants.,8,baseline_d,772
+33,5,nature,plural,present,The animals in the forest eat the tasty plants.,9,control_a,773
+33,6,nature,plural,present,The animals in the forest quickly eat the tasty plants.,10,control_b,774
+33,7,nature,plural,present,The big animals in the forest eat the tasty plants.,10,control_c,775
+33,8,nature,plural,present,The big animals in the forest quickly eat the tasty plants.,11,control_d,776
+33,9,nature,plural,present,The animals that have strong legs eat the tasty plants.,10,standard_subject_a,777
+33,10,nature,plural,present,The animals that have strong legs quickly eat the tasty plants.,11,standard_subject_b,778
+33,11,nature,plural,present,The big animals that have strong legs eat the tasty plants.,11,standard_subject_c,779
+33,12,nature,plural,present,The big animals that have strong legs quickly eat the tasty plants.,12,standard_subject_d,780
+33,13,nature,plural,present,The animals that the tourists photograph eat the tasty plants.,10,standard_object_a,781
+33,14,nature,plural,present,The animals that the tourists photograph quickly eat the tasty plants.,11,standard_object_b,782
+33,15,nature,plural,present,The big animals that the tourists photograph eat the tasty plants.,11,standard_object_c,783
+33,16,nature,plural,present,The big animals that the tourists photograph quickly eat the tasty plants.,12,standard_object_d,784
+33,17,nature,plural,present,The animals that eat the leaves that are high on trees eat the tasty plants.,15,nested_subject_a,785
+33,18,nature,plural,present,The animals that eat the leaves that are high on trees quickly eat the tasty plants.,16,nested_subject_b,786
+33,19,nature,plural,present,The big animals that eat the leaves that are high on trees eat the tasty plants.,16,nested_subject_c,787
+33,20,nature,plural,present,The big animals that eat the leaves that are high on trees quickly eat the tasty plants.,17,nested_subject_d,788
+33,21,nature,plural,present,The animals that the researchers who the university funds study eat the tasty plants.,14,nested_object_a,789
+33,22,nature,plural,present,The animals that the researchers who the university funds study quickly eat the tasty plants.,15,nested_object_b,790
+33,23,nature,plural,present,The big animals that the researchers who the university funds study eat the tasty plants.,15,nested_object_c,791
+33,24,nature,plural,present,The big animals that the researchers who the university funds study quickly eat the tasty plants.,16,nested_object_d,792
+34,1,nature,singular,past,The fox entered the den.,6,baseline_a,793
+34,2,nature,singular,past,The fox quietly entered the den.,7,baseline_b,794
+34,3,nature,singular,past,The brown fox entered the den.,6,baseline_c,795
+34,4,nature,singular,past,The brown fox quietly entered the den.,8,baseline_d,796
+34,5,nature,singular,past,The fox in the forest entered the den.,9,control_a,797
+34,6,nature,singular,past,The fox in the forest quietly entered the den.,10,control_b,798
+34,7,nature,singular,past,The brown fox in the forest entered the den.,9,control_c,799
+34,8,nature,singular,past,The brown fox in the forest quietly entered the den.,11,control_d,800
+34,9,nature,singular,past,The fox who jumped the fence entered the den.,9,standard_subject_a,801
+34,10,nature,singular,past,The fox who jumped the fence quietly entered the den.,10,standard_subject_b,802
+34,11,nature,singular,past,The brown fox who jumped the fence entered the den.,9,standard_subject_c,803
+34,12,nature,singular,past,The brown fox who jumped the fence quietly entered the den.,11,standard_subject_d,804
+34,13,nature,singular,past,The fox who the hiker followed entered the den.,10,standard_object_a,805
+34,14,nature,singular,past,The fox who the hiker followed quietly entered the den.,11,standard_object_b,806
+34,15,nature,singular,past,The brown fox who the hiker followed entered the den.,10,standard_object_c,807
+34,16,nature,singular,past,The brown fox who the hiker followed quietly entered the den.,12,standard_object_d,808
+34,17,nature,singular,past,The fox who chased the rabbit that jumped high entered the den.,13,nested_subject_a,809
+34,18,nature,singular,past,The fox who chased the rabbit that jumped high quietly entered the den.,14,nested_subject_b,810
+34,19,nature,singular,past,The brown fox who chased the rabbit that jumped high entered the den.,13,nested_subject_c,811
+34,20,nature,singular,past,The brown fox who chased the rabbit that jumped high quietly entered the den.,15,nested_subject_d,812
+34,21,nature,singular,past,The fox who the dog who the walker caught chased entered the den.,14,nested_object_a,813
+34,22,nature,singular,past,The fox who the dog who the walker caught chased quietly entered the den.,15,nested_object_b,814
+34,23,nature,singular,past,The brown fox who the dog who the walker caught chased entered the den.,14,nested_object_c,815
+34,24,nature,singular,past,The brown fox who the dog who the walker caught chased quietly entered the den.,16,nested_object_d,816
+35,1,nature,singular,present,The farmer grows a big plant.,6,baseline_a,817
+35,2,nature,singular,present,The farmer diligently grows a big plant.,7,baseline_b,818
+35,3,nature,singular,present,The skilled farmer grows a big plant.,7,baseline_c,819
+35,4,nature,singular,present,The skilled farmer diligently grows a big plant.,8,baseline_d,820
+35,5,nature,singular,present,The farmer in the field grows a big plant.,9,control_a,821
+35,6,nature,singular,present,The farmer in the field diligently grows a big plant.,10,control_b,822
+35,7,nature,singular,present,The skilled farmer in the field grows a big plant.,10,control_c,823
+35,8,nature,singular,present,The skilled farmer in the field diligently grows a big plant.,11,control_d,824
+35,9,nature,singular,present,The farmer who knows crops grows a big plant.,9,standard_subject_a,825
+35,10,nature,singular,present,The farmer who knows crops diligently grows a big plant.,10,standard_subject_b,826
+35,11,nature,singular,present,The skilled farmer who knows crops grows a big plant.,10,standard_subject_c,827
+35,12,nature,singular,present,The skilled farmer who knows crops diligently grows a big plant.,11,standard_subject_d,828
+35,13,nature,singular,present,The farmer who the advisor helped grows a big plant.,10,standard_object_a,829
+35,14,nature,singular,present,The farmer who the advisor helped diligently grows a big plant.,11,standard_object_b,830
+35,15,nature,singular,present,The skilled farmer who the advisor helped grows a big plant.,11,standard_object_c,831
+35,16,nature,singular,present,The skilled farmer who the advisor helped diligently grows a big plant.,12,standard_object_d,832
+35,17,nature,singular,present,The farmer who read the book that had useful tips grows a big plant.,14,nested_subject_a,833
+35,18,nature,singular,present,The farmer who read the book that had useful tips diligently grows a big plant.,15,nested_subject_b,834
+35,19,nature,singular,present,The skilled farmer who read the book that had useful tips grows a big plant.,15,nested_subject_c,835
+35,20,nature,singular,present,The skilled farmer who read the book that had useful tips diligently grows a big plant.,16,nested_subject_d,836
+35,21,nature,singular,present,The farmer who the neighbor who the union supported liked grows a big plant.,14,nested_object_a,837
+35,22,nature,singular,present,The farmer who the neighbor who the union supported liked diligently grows a big plant.,15,nested_object_b,838
+35,23,nature,singular,present,The skilled farmer who the neighbor who the union supported liked grows a big plant.,15,nested_object_c,839
+35,24,nature,singular,present,The skilled farmer who the neighbor who the union supported liked diligently grows a big plant.,16,nested_object_d,840
+36,1,relationship,plural,past,The brothers ate big sandwiches.,5,baseline_a,841
+36,2,relationship,plural,past,The brothers hungrily ate big sandwiches.,6,baseline_b,842
+36,3,relationship,plural,past,The happy brothers ate big sandwiches.,6,baseline_c,843
+36,4,relationship,plural,past,The happy brothers hungrily ate big sandwiches.,7,baseline_d,844
+36,5,relationship,plural,past,The brothers in the garden ate big sandwiches.,8,control_a,845
+36,6,relationship,plural,past,The brothers in the garden hungrily ate big sandwiches.,9,control_b,846
+36,7,relationship,plural,past,The happy brothers in the garden ate big sandwiches.,9,control_c,847
+36,8,relationship,plural,past,The happy brothers in the garden hungrily ate big sandwiches.,10,control_d,848
+36,9,relationship,plural,past,The brothers who studied music ate big sandwiches.,8,standard_subject_a,849
+36,10,relationship,plural,past,The brothers who studied music hungrily ate big sandwiches.,9,standard_subject_b,850
+36,11,relationship,plural,past,The happy brothers who studied music ate big sandwiches.,9,standard_subject_c,851
+36,12,relationship,plural,past,The happy brothers who studied music hungrily ate big sandwiches.,10,standard_subject_d,852
+36,13,relationship,plural,past,The brothers who the parents praised ate big sandwiches.,9,standard_object_a,853
+36,14,relationship,plural,past,The brothers who the parents praised hungrily ate big sandwiches.,10,standard_object_b,854
+36,15,relationship,plural,past,The happy brothers who the parents praised ate big sandwiches.,10,standard_object_c,855
+36,16,relationship,plural,past,The happy brothers who the parents praised hungrily ate big sandwiches.,11,standard_object_d,856
+36,17,relationship,plural,past,The brothers who saw the games that were exciting ate big sandwiches.,12,nested_subject_a,857
+36,18,relationship,plural,past,The brothers who saw the games that were exciting hungrily ate big sandwiches.,13,nested_subject_b,858
+36,19,relationship,plural,past,The happy brothers who saw the games that were exciting ate big sandwiches.,13,nested_subject_c,859
+36,20,relationship,plural,past,The happy brothers who saw the games that were exciting hungrily ate big sandwiches.,14,nested_subject_d,860
+36,21,relationship,plural,past,The brothers who the friends who the teachers appreciated admired ate big sandwiches.,13,nested_object_a,861
+36,22,relationship,plural,past,The brothers who the friends who the teachers appreciated admired hungrily ate big sandwiches.,14,nested_object_b,862
+36,23,relationship,plural,past,The happy brothers who the friends who the teachers appreciated admired ate big sandwiches.,14,nested_object_c,863
+36,24,relationship,plural,past,The happy brothers who the friends who the teachers appreciated admired hungrily ate big sandwiches.,15,nested_object_d,864
+37,1,relationship,plural,present,The siblings support their friends.,4,baseline_a,865
+37,2,relationship,plural,present,The siblings always support their friends.,5,baseline_b,866
+37,3,relationship,plural,present,The happy siblings support their friends.,6,baseline_c,867
+37,4,relationship,plural,present,The happy siblings always support their friends.,7,baseline_d,868
+37,5,relationship,plural,present,The siblings in the house support their friends.,8,control_a,869
+37,6,relationship,plural,present,The siblings in the house always support their friends.,9,control_b,870
+37,7,relationship,plural,present,The happy siblings in the house support their friends.,9,control_c,871
+37,8,relationship,plural,present,The happy siblings in the house always support their friends.,10,control_d,872
+37,9,relationship,plural,present,The siblings who share toys support their friends.,8,standard_subject_a,873
+37,10,relationship,plural,present,The siblings who share toys always support their friends.,9,standard_subject_b,874
+37,11,relationship,plural,present,The happy siblings who share toys support their friends.,9,standard_subject_c,875
+37,12,relationship,plural,present,The happy siblings who share toys always support their friends.,10,standard_subject_d,876
+37,13,relationship,plural,present,The siblings who the parents taught support their friends.,9,standard_object_a,877
+37,14,relationship,plural,present,The siblings who the parents taught always support their friends.,10,standard_object_b,878
+37,15,relationship,plural,present,The happy siblings who the parents taught support their friends.,10,standard_object_c,879
+37,16,relationship,plural,present,The happy siblings who the parents taught always support their friends.,11,standard_object_d,880
+37,17,relationship,plural,present,The siblings who saw the pictures that were in the book support their friends.,14,nested_subject_a,881
+37,18,relationship,plural,present,The siblings who saw the pictures that were in the book always support their friends.,15,nested_subject_b,882
+37,19,relationship,plural,present,The happy siblings who saw the pictures that were in the book support their friends.,15,nested_subject_c,883
+37,20,relationship,plural,present,The happy siblings who saw the pictures that were in the book always support their friends.,16,nested_subject_d,884
+37,21,relationship,plural,present,The siblings who the teachers who the school hired encouraged support their friends.,13,nested_object_a,885
+37,22,relationship,plural,present,The siblings who the teachers who the school hired encouraged always support their friends.,14,nested_object_b,886
+37,23,relationship,plural,present,The happy siblings who the teachers who the school hired encouraged support their friends.,14,nested_object_c,887
+37,24,relationship,plural,present,The happy siblings who the teachers who the school hired encouraged always support their friends.,15,nested_object_d,888
+38,1,relationship,singular,past,The parent read a book.,5,baseline_a,889
+38,2,relationship,singular,past,The parent attentively read a book.,6,baseline_b,890
+38,3,relationship,singular,past,The loving parent read a book.,6,baseline_c,891
+38,4,relationship,singular,past,The loving parent attentively read a book.,7,baseline_d,892
+38,5,relationship,singular,past,The parent in the house read a book.,8,control_a,893
+38,6,relationship,singular,past,The parent in the house attentively read a book.,9,control_b,894
+38,7,relationship,singular,past,The loving parent in the house read a book.,9,control_c,895
+38,8,relationship,singular,past,The loving parent in the house attentively read a book.,10,control_d,896
+38,9,relationship,singular,past,The parent who sang well read a book.,8,standard_subject_a,897
+38,10,relationship,singular,past,The parent who sang well attentively read a book.,9,standard_subject_b,898
+38,11,relationship,singular,past,The loving parent who sang well read a book.,9,standard_subject_c,899
+38,12,relationship,singular,past,The loving parent who sang well attentively read a book.,10,standard_subject_d,900
+38,13,relationship,singular,past,The parent who the friend helped read a book.,9,standard_object_a,901
+38,14,relationship,singular,past,The parent who the friend helped attentively read a book.,10,standard_object_b,902
+38,15,relationship,singular,past,The loving parent who the friend helped read a book.,10,standard_object_c,903
+38,16,relationship,singular,past,The loving parent who the friend helped attentively read a book.,11,standard_object_d,904
+38,17,relationship,singular,past,The parent who watched the movie that was recommended read a book.,12,nested_subject_a,905
+38,18,relationship,singular,past,The parent who watched the movie that was recommended attentively read a book.,13,nested_subject_b,906
+38,19,relationship,singular,past,The loving parent who watched the movie that was recommended read a book.,13,nested_subject_c,907
+38,20,relationship,singular,past,The loving parent who watched the movie that was recommended attentively read a book.,14,nested_subject_d,908
+38,21,relationship,singular,past,The parent who the sibling who the teacher praised respected read a book.,13,nested_object_a,909
+38,22,relationship,singular,past,The parent who the sibling who the teacher praised respected attentively read a book.,14,nested_object_b,910
+38,23,relationship,singular,past,The loving parent who the sibling who the teacher praised respected read a book.,14,nested_object_c,911
+38,24,relationship,singular,past,The loving parent who the sibling who the teacher praised respected attentively read a book.,15,nested_object_d,912
+39,1,relationship,singular,present,The baby looks at the ball.,6,baseline_a,913
+39,2,relationship,singular,present,The baby curiously looks at the ball.,7,baseline_b,914
+39,3,relationship,singular,present,The cute baby looks at the ball.,7,baseline_c,915
+39,4,relationship,singular,present,The cute baby curiously looks at the ball.,8,baseline_d,916
+39,5,relationship,singular,present,The baby in the playpen looks at the ball.,9,control_a,917
+39,6,relationship,singular,present,The baby in the playpen curiously looks at the ball.,10,control_b,918
+39,7,relationship,singular,present,The cute baby in the playpen looks at the ball.,10,control_c,919
+39,8,relationship,singular,present,The cute baby in the playpen curiously looks at the ball.,11,control_d,920
+39,9,relationship,singular,present,The baby who drinks milk looks at the ball.,9,standard_subject_a,921
+39,10,relationship,singular,present,The baby who drinks milk curiously looks at the ball.,10,standard_subject_b,922
+39,11,relationship,singular,present,The cute baby who drinks milk looks at the ball.,10,standard_subject_c,923
+39,12,relationship,singular,present,The cute baby who drinks milk curiously looks at the ball.,11,standard_subject_d,924
+39,13,relationship,singular,present,The baby who the babysitter calms looks at the ball.,10,standard_object_a,925
+39,14,relationship,singular,present,The baby who the babysitter calms curiously looks at the ball.,11,standard_object_b,926
+39,15,relationship,singular,present,The cute baby who the babysitter calms looks at the ball.,11,standard_object_c,927
+39,16,relationship,singular,present,The cute baby who the babysitter calms curiously looks at the ball.,12,standard_object_d,928
+39,17,relationship,singular,present,The baby who tastes the fruit that has spots looks at the ball.,13,nested_subject_a,929
+39,18,relationship,singular,present,The baby who tastes the fruit that has spots curiously looks at the ball.,14,nested_subject_b,930
+39,19,relationship,singular,present,The cute baby who tastes the fruit that has spots looks at the ball.,14,nested_subject_c,931
+39,20,relationship,singular,present,The cute baby who tastes the fruit that has spots curiously looks at the ball.,15,nested_subject_d,932
+39,21,relationship,singular,present,The baby who the aunt who the brother called visits looks at the ball.,14,nested_object_a,933
+39,22,relationship,singular,present,The baby who the aunt who the brother called visits curiously looks at the ball.,15,nested_object_b,934
+39,23,relationship,singular,present,The cute baby who the aunt who the brother called visits looks at the ball.,15,nested_object_c,935
+39,24,relationship,singular,present,The cute baby who the aunt who the brother called visits curiously looks at the ball.,16,nested_object_d,936
+40,1,science,plural,past,The physicists analyzed the data.,5,baseline_a,937
+40,2,science,plural,past,The physicists carefully analyzed the data.,6,baseline_b,938
+40,3,science,plural,past,The skilled physicists analyzed the data.,6,baseline_c,939
+40,4,science,plural,past,The skilled physicists carefully analyzed the data.,7,baseline_d,940
+40,5,science,plural,past,The physicists in the lab analyzed the data.,8,control_a,941
+40,6,science,plural,past,The physicists in the lab carefully analyzed the data.,9,control_b,942
+40,7,science,plural,past,The skilled physicists in the lab analyzed the data.,9,control_c,943
+40,8,science,plural,past,The skilled physicists in the lab carefully analyzed the data.,10,control_d,944
+40,9,science,plural,past,The physicists who studied math analyzed the data.,8,standard_subject_a,945
+40,10,science,plural,past,The physicists who studied math carefully analyzed the data.,9,standard_subject_b,946
+40,11,science,plural,past,The skilled physicists who studied math analyzed the data.,9,standard_subject_c,947
+40,12,science,plural,past,The skilled physicists who studied math carefully analyzed the data.,10,standard_subject_d,948
+40,13,science,plural,past,The physicists who the engineers helped analyzed the data.,9,standard_object_a,949
+40,14,science,plural,past,The physicists who the engineers helped carefully analyzed the data.,10,standard_object_b,950
+40,15,science,plural,past,The skilled physicists who the engineers helped analyzed the data.,10,standard_object_c,951
+40,16,science,plural,past,The skilled physicists who the engineers helped carefully analyzed the data.,11,standard_object_d,952
+40,17,science,plural,past,The physicists who created the models that simulated the processes analyzed the data.,13,nested_subject_a,953
+40,18,science,plural,past,The physicists who created the models that simulated the processes carefully analyzed the data.,14,nested_subject_b,954
+40,19,science,plural,past,The skilled physicists who created the models that simulated the processes analyzed the data.,14,nested_subject_c,955
+40,20,science,plural,past,The skilled physicists who created the models that simulated the processes carefully analyzed the data.,15,nested_subject_d,956
+40,21,science,plural,past,The physicists who the researchers who the computers aided assisted analyzed the data.,13,nested_object_a,957
+40,22,science,plural,past,The physicists who the researchers who the computers aided assisted carefully analyzed the data.,14,nested_object_b,958
+40,23,science,plural,past,The skilled physicists who the researchers who the computers aided assisted analyzed the data.,14,nested_object_c,959
+40,24,science,plural,past,The skilled physicists who the researchers who the computers aided assisted carefully analyzed the data.,15,nested_object_d,960
+41,1,science,plural,present,The robots process data.,4,baseline_a,961
+41,2,science,plural,present,The robots quickly process data.,5,baseline_b,962
+41,3,science,plural,present,The efficient robots process data.,5,baseline_c,963
+41,4,science,plural,present,The efficient robots quickly process data.,6,baseline_d,964
+41,5,science,plural,present,The robots in the lab process data.,7,control_a,965
+41,6,science,plural,present,The robots in the lab quickly process data.,8,control_b,966
+41,7,science,plural,present,The efficient robots in the lab process data.,8,control_c,967
+41,8,science,plural,present,The efficient robots in the lab quickly process data.,9,control_d,968
+41,9,science,plural,present,The robots that run smoothly process data.,7,standard_subject_a,969
+41,10,science,plural,present,The robots that run smoothly quickly process data.,8,standard_subject_b,970
+41,11,science,plural,present,The efficient robots that run smoothly process data.,8,standard_subject_c,971
+41,12,science,plural,present,The efficient robots that run smoothly quickly process data.,9,standard_subject_d,972
+41,13,science,plural,present,The robots that the engineers designed process data.,8,standard_object_a,973
+41,14,science,plural,present,The robots that the engineers designed quickly process data.,9,standard_object_b,974
+41,15,science,plural,present,The efficient robots that the engineers designed process data.,9,standard_object_c,975
+41,16,science,plural,present,The efficient robots that the engineers designed quickly process data.,10,standard_object_d,976
+41,17,science,plural,present,The robots that compute the codes that are encrypted process data.,11,nested_subject_a,977
+41,18,science,plural,present,The robots that compute the codes that are encrypted quickly process data.,12,nested_subject_b,978
+41,19,science,plural,present,The efficient robots that compute the codes that are encrypted process data.,12,nested_subject_c,979
+41,20,science,plural,present,The efficient robots that compute the codes that are encrypted quickly process data.,13,nested_subject_d,980
+41,21,science,plural,present,The robots that the programmers who the company hired train process data.,12,nested_object_a,981
+41,22,science,plural,present,The robots that the programmers who the company hired train quickly process data.,13,nested_object_b,982
+41,23,science,plural,present,The efficient robots that the programmers who the company hired train process data.,13,nested_object_c,983
+41,24,science,plural,present,The efficient robots that the programmers who the company hired train quickly process data.,14,nested_object_d,984
+42,1,science,singular,past,The engineer designed the circuit.,5,baseline_a,985
+42,2,science,singular,past,The engineer carefully designed the circuit.,7,baseline_b,986
+42,3,science,singular,past,The experienced engineer designed the circuit.,6,baseline_c,987
+42,4,science,singular,past,The experienced engineer carefully designed the circuit.,7,baseline_d,988
+42,5,science,singular,past,The engineer in the lab designed the circuit.,8,control_a,989
+42,6,science,singular,past,The engineer in the lab carefully designed the circuit.,9,control_b,990
+42,7,science,singular,past,The experienced engineer in the lab designed the circuit.,9,control_c,991
+42,8,science,singular,past,The experienced engineer in the lab carefully designed the circuit.,10,control_d,992
+42,9,science,singular,past,The engineer who studied physics designed the circuit.,8,standard_subject_a,993
+42,10,science,singular,past,The engineer who studied physics carefully designed the circuit.,9,standard_subject_b,994
+42,11,science,singular,past,The experienced engineer who studied physics designed the circuit.,9,standard_subject_c,995
+42,12,science,singular,past,The experienced engineer who studied physics carefully designed the circuit.,10,standard_subject_d,996
+42,13,science,singular,past,The engineer who the manager hired designed the circuit.,9,standard_object_a,997
+42,14,science,singular,past,The engineer who the manager hired carefully designed the circuit.,10,standard_object_b,998
+42,15,science,singular,past,The experienced engineer who the manager hired designed the circuit.,10,standard_object_c,999
+42,16,science,singular,past,The experienced engineer who the manager hired carefully designed the circuit.,11,standard_object_d,1000
+42,17,science,singular,past,The engineer who read the manual that explained the process designed the circuit.,13,nested_subject_a,1001
+42,18,science,singular,past,The engineer who read the manual that explained the process carefully designed the circuit.,14,nested_subject_b,1002
+42,19,science,singular,past,The experienced engineer who read the manual that explained the process designed the circuit.,14,nested_subject_c,1003
+42,20,science,singular,past,The experienced engineer who read the manual that explained the process carefully designed the circuit.,15,nested_subject_d,1004
+42,21,science,singular,past,The engineer who the colleague who the company employed assisted designed the circuit.,13,nested_object_a,1005
+42,22,science,singular,past,The engineer who the colleague who the company employed assisted carefully designed the circuit.,14,nested_object_b,1006
+42,23,science,singular,past,The experienced engineer who the colleague who the company employed assisted designed the circuit.,14,nested_object_c,1007
+42,24,science,singular,past,The experienced engineer who the colleague who the company employed assisted carefully designed the circuit.,15,nested_object_d,1008
+43,1,science,singular,present,The scientist uses the microscope.,5,baseline_a,1009
+43,2,science,singular,present,The scientist carefully uses the microscope.,6,baseline_b,1010
+43,3,science,singular,present,The experienced scientist uses the microscope.,6,baseline_c,1011
+43,4,science,singular,present,The experienced scientist carefully uses the microscope.,7,baseline_d,1012
+43,5,science,singular,present,The scientist in the lab uses the microscope.,8,control_a,1013
+43,6,science,singular,present,The scientist in the lab carefully uses the microscope.,9,control_b,1014
+43,7,science,singular,present,The experienced scientist in the lab uses the microscope.,9,control_c,1015
+43,8,science,singular,present,The experienced scientist in the lab carefully uses the microscope.,10,control_d,1016
+43,9,science,singular,present,The scientist who studied biology uses the microscope.,8,standard_subject_a,1017
+43,10,science,singular,present,The scientist who studied biology carefully uses the microscope.,9,standard_subject_b,1018
+43,11,science,singular,present,The experienced scientist who studied biology uses the microscope.,9,standard_subject_c,1019
+43,12,science,singular,present,The experienced scientist who studied biology carefully uses the microscope.,10,standard_subject_d,1020
+43,13,science,singular,present,The scientist who the engineer assisted uses the microscope.,9,standard_object_a,1021
+43,14,science,singular,present,The scientist who the engineer assisted carefully uses the microscope.,10,standard_object_b,1022
+43,15,science,singular,present,The experienced scientist who the engineer assisted uses the microscope.,10,standard_object_c,1023
+43,16,science,singular,present,The experienced scientist who the engineer assisted carefully uses the microscope.,11,standard_object_d,1024
+43,17,science,singular,present,The scientist who analyzed the data that was from the satellite uses the microscope.,14,nested_subject_a,1025
+43,18,science,singular,present,The scientist who analyzed the data that was from the satellite carefully uses the microscope.,15,nested_subject_b,1026
+43,19,science,singular,present,The experienced scientist who analyzed the data that was from the satellite uses the microscope.,15,nested_subject_c,1027
+43,20,science,singular,present,The experienced scientist who analyzed the data that was from the satellite carefully uses the microscope.,16,nested_subject_d,1028
+43,21,science,singular,present,The scientist who the researcher who the university hired advised uses the microscope.,13,nested_object_a,1029
+43,22,science,singular,present,The scientist who the researcher who the university hired advised carefully uses the microscope.,14,nested_object_b,1030
+43,23,science,singular,present,The experienced scientist who the researcher who the university hired advised uses the microscope.,14,nested_object_c,1031
+43,24,science,singular,present,The experienced scientist who the researcher who the university hired advised carefully uses the microscope.,15,nested_object_d,1032
+44,1,shopping,plural,past,The store owners bought old products.,6,baseline_a,1033
+44,2,shopping,plural,past,The store owners reluctantly bought old products.,7,baseline_b,1034
+44,3,shopping,plural,past,The skilled store owners bought old products.,7,baseline_c,1035
+44,4,shopping,plural,past,The skilled store owners reluctantly bought old products.,8,baseline_d,1036
+44,5,shopping,plural,past,The store owners in the market bought old products.,9,control_a,1037
+44,6,shopping,plural,past,The store owners in the market reluctantly bought old products.,10,control_b,1038
+44,7,shopping,plural,past,The skilled store owners in the market bought old products.,10,control_c,1039
+44,8,shopping,plural,past,The skilled store owners in the market reluctantly bought old products.,11,control_d,1040
+44,9,shopping,plural,past,The store owners who worked long hours bought old products.,10,standard_subject_a,1041
+44,10,shopping,plural,past,The store owners who worked long hours reluctantly bought old products.,11,standard_subject_b,1042
+44,11,shopping,plural,past,The skilled store owners who worked long hours bought old products.,11,standard_subject_c,1043
+44,12,shopping,plural,past,The skilled store owners who worked long hours reluctantly bought old products.,12,standard_subject_d,1044
+44,13,shopping,plural,past,The store owners who the suppliers trusted bought old products.,10,standard_object_a,1045
+44,14,shopping,plural,past,The store owners who the suppliers trusted reluctantly bought old products.,11,standard_object_b,1046
+44,15,shopping,plural,past,The skilled store owners who the suppliers trusted bought old products.,11,standard_object_c,1047
+44,16,shopping,plural,past,The skilled store owners who the suppliers trusted reluctantly bought old products.,12,standard_object_d,1048
+44,17,shopping,plural,past,The store owners who reviewed the prices that were on the lists bought old products.,15,nested_subject_a,1049
+44,18,shopping,plural,past,The store owners who reviewed the prices that were on the lists reluctantly bought old products.,16,nested_subject_b,1050
+44,19,shopping,plural,past,The skilled store owners who reviewed the prices that were on the lists bought old products.,16,nested_subject_c,1051
+44,20,shopping,plural,past,The skilled store owners who reviewed the prices that were on the lists reluctantly bought old products.,17,nested_subject_d,1052
+44,21,shopping,plural,past,The store owners who the managers who the employees respected believed bought old products.,14,nested_object_a,1053
+44,22,shopping,plural,past,The store owners who the managers who the employees respected believed reluctantly bought old products.,15,nested_object_b,1054
+44,23,shopping,plural,past,The skilled store owners who the managers who the employees respected believed bought old products.,15,nested_object_c,1055
+44,24,shopping,plural,past,The skilled store owners who the managers who the employees respected believed reluctantly bought old products.,16,nested_object_d,1056
+45,1,shopping,plural,past,The cashiers gave great deals.,6,baseline_a,1057
+45,2,shopping,plural,past,The cashiers enthusiastically gave great deals.,7,baseline_b,1058
+45,3,shopping,plural,past,The trustworthy cashiers gave great deals.,7,baseline_c,1059
+45,4,shopping,plural,past,The trustworthy cashiers enthusiastically gave great deals.,8,baseline_d,1060
+45,5,shopping,plural,past,The cashiers in the stores gave great deals.,9,control_a,1061
+45,6,shopping,plural,past,The cashiers in the stores enthusiastically gave great deals.,10,control_b,1062
+45,7,shopping,plural,past,The trustworthy cashiers in the stores gave great deals.,10,control_c,1063
+45,8,shopping,plural,past,The trustworthy cashiers in the stores enthusiastically gave great deals.,11,control_d,1064
+45,9,shopping,plural,past,The cashiers who price items carefully gave great deals.,10,standard_subject_a,1065
+45,10,shopping,plural,past,The cashiers who price items carefully enthusiastically gave great deals.,11,standard_subject_b,1066
+45,11,shopping,plural,past,The trustworthy cashiers who price items carefully gave great deals.,11,standard_subject_c,1067
+45,12,shopping,plural,past,The trustworthy cashiers who price items carefully enthusiastically gave great deals.,12,standard_subject_d,1068
+45,13,shopping,plural,past,The cashiers who the managers supervise gave great deals.,10,standard_object_a,1069
+45,14,shopping,plural,past,The cashiers who the managers supervise enthusiastically gave great deals.,11,standard_object_b,1070
+45,15,shopping,plural,past,The trustworthy cashiers who the managers supervise gave great deals.,11,standard_object_c,1071
+45,16,shopping,plural,past,The trustworthy cashiers who the managers supervise enthusiastically gave great deals.,12,standard_object_d,1072
+45,17,shopping,plural,past,The cashiers who met customers who bought fruit gave great deals.,11,nested_subject_a,1073
+45,18,shopping,plural,past,The cashiers who met customers who bought fruit enthusiastically gave great deals.,12,nested_subject_b,1074
+45,19,shopping,plural,past,The trustworthy cashiers who met customers who bought fruit gave great deals.,12,nested_subject_c,1075
+45,20,shopping,plural,past,The trustworthy cashiers who met customers who bought fruit enthusiastically gave great deals.,13,nested_subject_d,1076
+45,21,shopping,plural,past,The cashiers who buyers whom the directors pleased praise gave great deals.,12,nested_object_a,1077
+45,22,shopping,plural,past,The cashiers who buyers whom the directors pleased praise enthusiastically gave great deals.,13,nested_object_b,1078
+45,23,shopping,plural,past,The trustworthy cashiers who buyers whom the directors pleased praise gave great deals.,13,nested_object_c,1079
+45,24,shopping,plural,past,The trustworthy cashiers who buyers whom the directors pleased praise enthusiastically gave great deals.,14,nested_object_d,1080
+46,1,shopping,singular,past,The shopkeeper sold an old watch.,6,baseline_a,1081
+46,2,shopping,singular,past,The shopkeeper quickly sold an old watch.,7,baseline_b,1082
+46,3,shopping,singular,past,The busy shopkeeper sold an old watch.,7,baseline_c,1083
+46,4,shopping,singular,past,The busy shopkeeper quickly sold an old watch.,8,baseline_d,1084
+46,5,shopping,singular,past,The shopkeeper in the corner sold an old watch.,9,control_a,1085
+46,6,shopping,singular,past,The shopkeeper in the corner quickly sold an old watch.,10,control_b,1086
+46,7,shopping,singular,past,The busy shopkeeper in the corner sold an old watch.,10,control_c,1087
+46,8,shopping,singular,past,The busy shopkeeper in the corner quickly sold an old watch.,11,control_d,1088
+46,9,shopping,singular,past,The shopkeeper who woke early sold an old watch.,9,standard_subject_a,1089
+46,10,shopping,singular,past,The shopkeeper who woke early quickly sold an old watch.,10,standard_subject_b,1090
+46,11,shopping,singular,past,The busy shopkeeper who woke early sold an old watch.,10,standard_subject_c,1091
+46,12,shopping,singular,past,The busy shopkeeper who woke early quickly sold an old watch.,11,standard_subject_d,1092
+46,13,shopping,singular,past,The shopkeeper who the child liked sold an old watch.,10,standard_object_a,1093
+46,14,shopping,singular,past,The shopkeeper who the child liked quickly sold an old watch.,11,standard_object_b,1094
+46,15,shopping,singular,past,The busy shopkeeper who the child liked sold an old watch.,11,standard_object_c,1095
+46,16,shopping,singular,past,The busy shopkeeper who the child liked quickly sold an old watch.,12,standard_object_d,1096
+46,17,shopping,singular,past,The shopkeeper who found the bag that had been lost sold an old watch.,14,nested_subject_a,1097
+46,18,shopping,singular,past,The shopkeeper who found the bag that had been lost quickly sold an old watch.,15,nested_subject_b,1098
+46,19,shopping,singular,past,The busy shopkeeper who found the bag that had been lost sold an old watch.,15,nested_subject_c,1099
+46,20,shopping,singular,past,The busy shopkeeper who found the bag that had been lost quickly sold an old watch.,16,nested_subject_d,1100
+46,21,shopping,singular,past,The shopkeeper who the customer who the store owner recommended liked sold an old watch.,15,nested_object_a,1101
+46,22,shopping,singular,past,The shopkeeper who the customer who the store owner recommended liked quickly sold an old watch.,16,nested_object_b,1102
+46,23,shopping,singular,past,The busy shopkeeper who the customer who the store owner recommended liked sold an old watch.,16,nested_object_c,1103
+46,24,shopping,singular,past,The busy shopkeeper who the customer who the store owner recommended liked quickly sold an old watch.,17,nested_object_d,1104
+47,1,shopping,singular,present,The woman checks the price.,5,baseline_a,1105
+47,2,shopping,singular,present,The woman quickly checks the price.,6,baseline_b,1106
+47,3,shopping,singular,present,The old woman checks the price.,6,baseline_c,1107
+47,4,shopping,singular,present,The old woman quickly checks the price.,7,baseline_d,1108
+47,5,shopping,singular,present,The woman in the store checks the price.,8,control_a,1109
+47,6,shopping,singular,present,The woman in the store quickly checks the price.,9,control_b,1110
+47,7,shopping,singular,present,The old woman in the store checks the price.,9,control_c,1111
+47,8,shopping,singular,present,The old woman in the store quickly checks the price.,10,control_d,1112
+47,9,shopping,singular,present,The woman who knows the owner checks the price.,9,standard_subject_a,1113
+47,10,shopping,singular,present,The woman who knows the owner quickly checks the price.,10,standard_subject_b,1114
+47,11,shopping,singular,present,The old woman who knows the owner checks the price.,10,standard_subject_c,1115
+47,12,shopping,singular,present,The old woman who knows the owner quickly checks the price.,11,standard_subject_d,1116
+47,13,shopping,singular,present,The woman who the manager employs checks the price.,9,standard_object_a,1117
+47,14,shopping,singular,present,The woman who the manager employs quickly checks the price.,10,standard_object_b,1118
+47,15,shopping,singular,present,The old woman who the manager employs checks the price.,10,standard_object_c,1119
+47,16,shopping,singular,present,The old woman who the manager employs quickly checks the price.,11,standard_object_d,1120
+47,17,shopping,singular,present,The woman who received the email that was sent yesterday checks the price.,13,nested_subject_a,1121
+47,18,shopping,singular,present,The woman who received the email that was sent yesterday quickly checks the price.,14,nested_subject_b,1122
+47,19,shopping,singular,present,The old woman who received the email that was sent yesterday checks the price.,14,nested_subject_c,1123
+47,20,shopping,singular,present,The old woman who received the email that was sent yesterday quickly checks the price.,15,nested_subject_d,1124
+47,21,shopping,singular,present,The woman who the cashier who the company trained helps checks the price.,13,nested_object_a,1125
+47,22,shopping,singular,present,The woman who the cashier who the company trained helps quickly checks the price.,14,nested_object_b,1126
+47,23,shopping,singular,present,The old woman who the cashier who the company trained helps checks the price.,14,nested_object_c,1127
+47,24,shopping,singular,present,The old woman who the cashier who the company trained helps quickly checks the price.,15,nested_object_d,1128
+48,1,sport,singular,past,The team won prizes.,4,baseline_a,1129
+48,2,sport,singular,past,The team unexpectedly won prizes.,5,baseline_b,1130
+48,3,sport,singular,past,The successful team won prizes.,5,baseline_c,1131
+48,4,sport,singular,past,The successful team unexpectedly won prizes.,6,baseline_d,1132
+48,5,sport,singular,past,The team on the field won prizes.,7,control_a,1133
+48,6,sport,singular,past,The team on the field unexpectedly won prizes.,8,control_b,1134
+48,7,sport,singular,past,The successful team on the field won prizes.,8,control_c,1135
+48,8,sport,singular,past,The successful team on the field unexpectedly won prizes.,9,control_d,1136
+48,9,sport,singular,past,The team that practiced won prizes.,6,standard_subject_a,1137
+48,10,sport,singular,past,The team that practiced unexpectedly won prizes.,7,standard_subject_b,1138
+48,11,sport,singular,past,The successful team that practiced won prizes.,7,standard_subject_c,1139
+48,12,sport,singular,past,The successful team that practiced unexpectedly won prizes.,8,standard_subject_d,1140
+48,13,sport,singular,past,The team that the fans cheered won prizes.,8,standard_object_a,1141
+48,14,sport,singular,past,The team that the fans cheered unexpectedly won prizes.,9,standard_object_b,1142
+48,15,sport,singular,past,The successful team that the fans cheered won prizes.,9,standard_object_c,1143
+48,16,sport,singular,past,The successful team that the fans cheered unexpectedly won prizes.,10,standard_object_d,1144
+48,17,sport,singular,past,The team that followed strategies that worked well won prizes.,10,nested_subject_a,1145
+48,18,sport,singular,past,The team that followed strategies that worked well unexpectedly won prizes.,11,nested_subject_b,1146
+48,19,sport,singular,past,The successful team that followed strategies that worked well won prizes.,11,nested_subject_c,1147
+48,20,sport,singular,past,The successful team that followed strategies that worked well unexpectedly won prizes.,12,nested_subject_d,1148
+48,21,sport,singular,past,The team that the coaches who the recruiters hired advised won prizes.,12,nested_object_a,1149
+48,22,sport,singular,past,The team that the coaches who the recruiters hired advised unexpectedly won prizes.,13,nested_object_b,1150
+48,23,sport,singular,past,The successful team that the coaches who the recruiters hired advised won prizes.,13,nested_object_c,1151
+48,24,sport,singular,past,The successful team that the coaches who the recruiters hired advised unexpectedly won prizes.,14,nested_object_d,1152
+49,1,sport,plural,present,The players win many trophies.,5,baseline_a,1153
+49,2,sport,plural,present,The players proudly win many trophies.,6,baseline_b,1154
+49,3,sport,plural,present,The experienced players win many trophies.,6,baseline_c,1155
+49,4,sport,plural,present,The experienced players proudly win many trophies.,7,baseline_d,1156
+49,5,sport,plural,present,The players in the stadium win many trophies.,8,control_a,1157
+49,6,sport,plural,present,The players in the stadium proudly win many trophies.,9,control_b,1158
+49,7,sport,plural,present,The experienced players in the stadium win many trophies.,9,control_c,1159
+49,8,sport,plural,present,The experienced players in the stadium proudly win many trophies.,10,control_d,1160
+49,9,sport,plural,present,The players who practice every day win many trophies.,9,standard_subject_a,1161
+49,10,sport,plural,present,The players who practice every day proudly win many trophies.,10,standard_subject_b,1162
+49,11,sport,plural,present,The experienced players who practice every day win many trophies.,10,standard_subject_c,1163
+49,12,sport,plural,present,The experienced players who practice every day proudly win many trophies.,11,standard_subject_d,1164
+49,13,sport,plural,present,The players who the officials select win many trophies.,9,standard_object_a,1165
+49,14,sport,plural,present,The players who the officials select proudly win many trophies.,10,standard_object_b,1166
+49,15,sport,plural,present,The experienced players who the officials select win many trophies.,10,standard_object_c,1167
+49,16,sport,plural,present,The experienced players who the officials select proudly win many trophies.,11,standard_object_d,1168
+49,17,sport,plural,present,The players who read the books that contain new strategies win many trophies.,13,nested_subject_a,1169
+49,18,sport,plural,present,The players who read the books that contain new strategies proudly win many trophies.,14,nested_subject_b,1170
+49,19,sport,plural,present,The experienced players who read the books that contain new strategies win many trophies.,14,nested_subject_c,1171
+49,20,sport,plural,present,The experienced players who read the books that contain new strategies proudly win many trophies.,15,nested_subject_d,1172
+49,21,sport,plural,present,The players who the coaches who the recruiters hire assist win many trophies.,13,nested_object_a,1173
+49,22,sport,plural,present,The players who the coaches who the recruiters hire assist proudly win many trophies.,14,nested_object_b,1174
+49,23,sport,plural,present,The experienced players who the coaches who the recruiters hire assist win many trophies.,14,nested_object_c,1175
+49,24,sport,plural,present,The experienced players who the coaches who the recruiters hire assist proudly win many trophies.,15,nested_object_d,1176
+50,1,sport,plural,past,The runners sprinted down the track.,6,baseline_a,1177
+50,2,sport,plural,past,The runners recklessly sprinted down the track.,7,baseline_b,1178
+50,3,sport,plural,past,The runners runner sprinted down the track.,7,baseline_c,1179
+50,4,sport,plural,past,The runners runner recklessly sprinted down the track.,8,baseline_d,1180
+50,5,sport,plural,past,The runners in shorts sprinted down the track.,8,control_a,1181
+50,6,sport,plural,past,The runners in shorts recklessly sprinted down the track.,9,control_b,1182
+50,7,sport,plural,past,The young runners in shorts sprinted down the track.,9,control_c,1183
+50,8,sport,plural,past,The young runners in shorts recklessly sprinted down the track.,10,control_d,1184
+50,9,sport,plural,past,The runners who waited patiently sprinted down the track.,9,standard_subject_a,1185
+50,10,sport,plural,past,The runners who waited patiently recklessly sprinted down the track.,10,standard_subject_b,1186
+50,11,sport,plural,past,The young runners who waited patiently sprinted down the track.,10,standard_subject_c,1187
+50,12,sport,plural,past,The young runners who waited patiently recklessly sprinted down the track.,11,standard_subject_d,1188
+50,13,sport,plural,past,The runners who the coachs chose sprinted down the track.,10,standard_object_a,1189
+50,14,sport,plural,past,The runners who the coachs chose recklessly sprinted down the track.,11,standard_object_b,1190
+50,15,sport,plural,past,The young runners who the coachs chose sprinted down the track.,11,standard_object_c,1191
+50,16,sport,plural,past,The young runners who the coachs chose recklessly sprinted down the track.,12,standard_object_d,1192
+50,17,sport,plural,past,The runners who passed the coachs that encouraged them sprinted down the track.,14,nested_subject_a,1193
+50,18,sport,plural,past,The runners who passed the coachs that encouraged them recklessly sprinted down the track.,15,nested_subject_b,1194
+50,19,sport,plural,past,The young runners who passed the coachs that encouraged them sprinted down the track.,15,nested_subject_c,1195
+50,20,sport,plural,past,The young runners who passed the coachs that encouraged them recklessly sprinted down the track.,16,nested_subject_d,1196
+50,21,sport,plural,past,The runners who the captains who the referees trusted appreciated sprinted down the track.,14,nested_object_a,1197
+50,22,sport,plural,past,The runners who the captains who the referees trusted appreciated recklessly sprinted down the track.,15,nested_object_b,1198
+50,23,sport,plural,past,The young runners who the captains who the referees trusted appreciated sprinted down the track.,15,nested_object_c,1199
+50,24,sport,plural,past,The young runners who the captains who the referees trusted appreciated recklessly sprinted down the track.,16,nested_object_d,1200
+51,1,sport,singular,present,The athlete runs the track.,5,baseline_a,1201
+51,2,sport,singular,present,The athlete successfully runs the track.,6,baseline_b,1202
+51,3,sport,singular,present,The skilled athlete runs the track.,6,baseline_c,1203
+51,4,sport,singular,present,The skilled athlete successfully runs the track.,7,baseline_d,1204
+51,5,sport,singular,present,The athlete in the gym runs the track.,8,control_a,1205
+51,6,sport,singular,present,The athlete in the gym successfully runs the track.,9,control_b,1206
+51,7,sport,singular,present,The skilled athlete in the gym runs the track.,9,control_c,1207
+51,8,sport,singular,present,The skilled athlete in the gym successfully runs the track.,10,control_d,1208
+51,9,sport,singular,present,The athlete who trained well runs the track.,8,standard_subject_a,1209
+51,10,sport,singular,present,The athlete who trained well successfully runs the track.,9,standard_subject_b,1210
+51,11,sport,singular,present,The skilled athlete who trained well runs the track.,9,standard_subject_c,1211
+51,12,sport,singular,present,The skilled athlete who trained well successfully runs the track.,10,standard_subject_d,1212
+51,13,sport,singular,present,The athlete who the coach selected runs the track.,9,standard_object_a,1213
+51,14,sport,singular,present,The athlete who the coach selected successfully runs the track.,10,standard_object_b,1214
+51,15,sport,singular,present,The skilled athlete who the coach selected runs the track.,10,standard_object_c,1215
+51,16,sport,singular,present,The skilled athlete who the coach selected successfully runs the track.,11,standard_object_d,1216
+51,17,sport,singular,present,The athlete who read the manual that was provided runs the track.,12,nested_subject_a,1217
+51,18,sport,singular,present,The athlete who read the manual that was provided successfully runs the track.,13,nested_subject_b,1218
+51,19,sport,singular,present,The skilled athlete who read the manual that was provided runs the track.,13,nested_subject_c,1219
+51,20,sport,singular,present,The skilled athlete who read the manual that was provided successfully runs the track.,14,nested_subject_d,1220
+51,21,sport,singular,present,The athlete who the trainer who the gym employs supports runs the track.,13,nested_object_a,1221
+51,22,sport,singular,present,The athlete who the trainer who the gym employs supports successfully runs the track.,14,nested_object_b,1222
+51,23,sport,singular,present,The skilled athlete who the trainer who the gym employs supports runs the track.,14,nested_object_c,1223
+51,24,sport,singular,present,The skilled athlete who the trainer who the gym employs supports successfully runs the track.,15,nested_object_d,1224
+52,1,transport,plural,present,Operators operate the buses at night.,6,baseline_a,1225
+52,2,transport,plural,present,Operators efficiently operate the buses at night.,7,baseline_b,1226
+52,3,transport,plural,present,Experienced operators operate the buses at night.,7,baseline_c,1227
+52,4,transport,plural,present,Experienced operators efficiently operate the buses at night.,8,baseline_d,1228
+52,5,transport,plural,present,Operators in the control room operate the buses at night.,10,control_a,1229
+52,6,transport,plural,present,Operators in the control room efficiently operate the buses at night.,11,control_b,1230
+52,7,transport,plural,present,Experienced operators in the control room operate the buses at night.,11,control_c,1231
+52,8,transport,plural,present,Experienced operators in the control room efficiently operate the buses at night.,12,control_d,1232
+52,9,transport,plural,present,Operators who studied traffic patterns operate the buses at night.,10,standard_subject_a,1233
+52,10,transport,plural,present,Operators who studied traffic patterns efficiently operate the buses at night.,11,standard_subject_b,1234
+52,11,transport,plural,present,Experienced operators who studied traffic patterns operate the buses at night.,11,standard_subject_c,1235
+52,12,transport,plural,present,Experienced operators who studied traffic patterns efficiently operate the buses at night.,12,standard_subject_d,1236
+52,13,transport,plural,present,Operators that the engineers trained operate the buses at night.,10,standard_object_a,1237
+52,14,transport,plural,present,Operators that the engineers trained efficiently operate the buses at night.,11,standard_object_b,1238
+52,15,transport,plural,present,Experienced operators that the engineers trained operate the buses at night.,11,standard_object_c,1239
+52,16,transport,plural,present,Experienced operators that the engineers trained efficiently operate the buses at night.,12,standard_object_d,1240
+52,17,transport,plural,present,Operators who checked the maps that the analysts created operate the buses at night.,14,nested_subject_a,1241
+52,18,transport,plural,present,Operators who checked the maps that the analysts created efficiently operate the buses at night.,15,nested_subject_b,1242
+52,19,transport,plural,present,Experienced operators who checked the maps that the analysts created operate the buses at night.,15,nested_subject_c,1243
+52,20,transport,plural,present,Experienced operators who checked the maps that the analysts created efficiently operate the buses at night.,16,nested_subject_d,1244
+52,21,transport,plural,present,Operators that the drivers that the agency hired trust operate the buses at night.,14,nested_object_a,1245
+52,22,transport,plural,present,Operators that the drivers that the agency hired trust efficiently operate the buses at night.,15,nested_object_b,1246
+52,23,transport,plural,present,Experienced operators that the drivers that the agency hired trust operate the buses at night.,15,nested_object_c,1247
+52,24,transport,plural,present,Experienced operators that the drivers that the agency hired trust efficiently operate the buses at night.,16,nested_object_d,1248
+53,1,transport,singular,past,The pilot flew the plane.,6,baseline_a,1249
+53,2,transport,singular,past,The pilot successfully flew the plane.,7,baseline_b,1250
+53,3,transport,singular,past,The experienced pilot flew the plane.,7,baseline_c,1251
+53,4,transport,singular,past,The experienced pilot successfully flew the plane.,8,baseline_d,1252
+53,5,transport,singular,past,The pilot in the cockpit flew the plane.,9,control_a,1253
+53,6,transport,singular,past,The pilot in the cockpit successfully flew the plane.,10,control_b,1254
+53,7,transport,singular,past,The experienced pilot in the cockpit flew the plane.,10,control_c,1255
+53,8,transport,singular,past,The experienced pilot in the cockpit successfully flew the plane.,11,control_d,1256
+53,9,transport,singular,past,The pilot who studied hard flew the plane.,9,standard_subject_a,1257
+53,10,transport,singular,past,The pilot who studied hard successfully flew the plane.,10,standard_subject_b,1258
+53,11,transport,singular,past,The experienced pilot who studied hard flew the plane.,10,standard_subject_c,1259
+53,12,transport,singular,past,The experienced pilot who studied hard successfully flew the plane.,11,standard_subject_d,1260
+53,13,transport,singular,past,The pilot who the air traffic controller called flew the plane.,12,standard_object_a,1261
+53,14,transport,singular,past,The pilot who the air traffic controller called successfully flew the plane.,13,standard_object_b,1262
+53,15,transport,singular,past,The experienced pilot who the air traffic controller called flew the plane.,13,standard_object_c,1263
+53,16,transport,singular,past,The experienced pilot who the air traffic controller called successfully flew the plane.,14,standard_object_d,1264
+53,17,transport,singular,past,The pilot who reviewed the weather report that was just released flew the plane.,15,nested_subject_a,1265
+53,18,transport,singular,past,The pilot who reviewed the weather report that was just released successfully flew the plane.,16,nested_subject_b,1266
+53,19,transport,singular,past,The experienced pilot who reviewed the weather report that was just released flew the plane.,16,nested_subject_c,1267
+53,20,transport,singular,past,The experienced pilot who reviewed the weather report that was just released successfully flew the plane.,17,nested_subject_d,1268
+53,21,transport,singular,past,The pilot who the flight attendant who the airline hired assisted flew the plane.,15,nested_object_a,1269
+53,22,transport,singular,past,The pilot who the flight attendant who the airline hired assisted successfully flew the plane.,16,nested_object_b,1270
+53,23,transport,singular,past,The experienced pilot who the flight attendant who the airline hired assisted flew the plane.,16,nested_object_c,1271
+53,24,transport,singular,past,The experienced pilot who the flight attendant who the airline hired assisted successfully flew the plane.,17,nested_object_d,1272
+54,1,transport,singular,present,The mechanic drives the train.,5,baseline_a,1273
+54,2,transport,singular,present,The mechanic safely drives the train.,6,baseline_b,1274
+54,3,transport,singular,present,The experienced mechanic drives the train.,6,baseline_c,1275
+54,4,transport,singular,present,The experienced mechanic safely drives the train.,7,baseline_d,1276
+54,5,transport,singular,present,The mechanic in uniform drives the train.,7,control_a,1277
+54,6,transport,singular,present,The mechanic in uniform safely drives the train.,8,control_b,1278
+54,7,transport,singular,present,The experienced mechanic in uniform drives the train.,8,control_c,1279
+54,8,transport,singular,present,The experienced mechanic in uniform safely drives the train.,9,control_d,1280
+54,9,transport,singular,present,The mechanic who traveled widely drives the train.,8,standard_subject_a,1281
+54,10,transport,singular,present,The mechanic who traveled widely safely drives the train.,9,standard_subject_b,1282
+54,11,transport,singular,present,The experienced mechanic who traveled widely drives the train.,9,standard_subject_c,1283
+54,12,transport,singular,present,The experienced mechanic who traveled widely safely drives the train.,10,standard_subject_d,1284
+54,13,transport,singular,present,The mechanic who the manager chose drives the train.,9,standard_object_a,1285
+54,14,transport,singular,present,The mechanic who the manager chose safely drives the train.,10,standard_object_b,1286
+54,15,transport,singular,present,The experienced mechanic who the manager chose drives the train.,10,standard_object_c,1287
+54,16,transport,singular,present,The experienced mechanic who the manager chose safely drives the train.,11,standard_object_d,1288
+54,17,transport,singular,present,The mechanic who studied the manual that explained all procedures drives the train.,13,nested_subject_a,1289
+54,18,transport,singular,present,The mechanic who studied the manual that explained all procedures safely drives the train.,14,nested_subject_b,1290
+54,19,transport,singular,present,The experienced mechanic who studied the manual that explained all procedures drives the train.,14,nested_subject_c,1291
+54,20,transport,singular,present,The experienced mechanic who studied the manual that explained all procedures safely drives the train.,15,nested_subject_d,1292
+54,21,transport,singular,present,The mechanic who the instructor who the company hired trained drives the train.,13,nested_object_a,1293
+54,22,transport,singular,present,The mechanic who the instructor who the company hired trained safely drives the train.,14,nested_object_b,1294
+54,23,transport,singular,present,The experienced mechanic who the instructor who the company hired trained drives the train.,14,nested_object_c,1295
+54,24,transport,singular,present,The experienced mechanic who the instructor who the company hired trained safely drives the train.,15,nested_object_d,1296
+55,1,weather,plural,past,Storms swept across valleys.,4,baseline_a,1297
+55,2,weather,plural,past,Storms rapidly swept across valleys.,5,baseline_b,1298
+55,3,weather,plural,past,Violent storms swept across valleys.,5,baseline_c,1299
+55,4,weather,plural,past,Violent storms rapidly swept across valleys.,6,baseline_d,1300
+55,5,weather,plural,past,Storms in the north swept across valleys.,7,control_a,1301
+55,6,weather,plural,past,Storms in the north rapidly swept across valleys.,8,control_b,1302
+55,7,weather,plural,past,Violent storms in the north swept across valleys.,8,control_c,1303
+55,8,weather,plural,past,Violent storms in the north rapidly swept across valleys.,9,control_d,1304
+55,9,weather,plural,past,Storms that developed downpours swept across valleys.,7,standard_subject_a,1305
+55,10,weather,plural,past,Storms that developed downpours rapidly swept across valleys.,8,standard_subject_b,1306
+55,11,weather,plural,past,Violent storms that developed downpours swept across valleys.,8,standard_subject_c,1307
+55,12,weather,plural,past,Violent storms that developed downpours rapidly swept across valleys.,9,standard_subject_d,1308
+55,13,weather,plural,past,Storms that forecasters predicted swept across valleys.,7,standard_object_a,1309
+55,14,weather,plural,past,Storms that forecasters predicted rapidly swept across valleys.,8,standard_object_b,1310
+55,15,weather,plural,past,Violent storms that forecasters predicted swept across valleys.,8,standard_object_c,1311
+55,16,weather,plural,past,Violent storms that forecasters predicted rapidly swept across valleys.,9,standard_object_d,1312
+55,17,weather,plural,past,Storms that developed downpours that spread quickly swept across valleys.,10,nested_subject_a,1313
+55,18,weather,plural,past,Storms that developed downpours that spread quickly rapidly swept across valleys.,11,nested_subject_b,1314
+55,19,weather,plural,past,Violent storms that developed downpours that spread quickly swept across valleys.,11,nested_subject_c,1315
+55,20,weather,plural,past,Violent storms that developed downpours that spread quickly rapidly swept across valleys.,12,nested_subject_d,1316
+55,21,weather,plural,past,Storms that forecasters whom reporters interviewed predicted swept across valleys.,10,nested_object_a,1317
+55,22,weather,plural,past,Storms that forecasters whom reporters interviewed predicted rapidly swept across valleys.,11,nested_object_b,1318
+55,23,weather,plural,past,Violent storms that forecasters whom reporters interviewed predicted swept across valleys.,11,nested_object_c,1319
+55,24,weather,plural,past,Violent storms that forecasters whom reporters interviewed predicted rapidly swept across valleys.,12,nested_object_d,1320
+56,1,weather,plural,present,The storms cause heavy damage outside.,6,baseline_a,1321
+56,2,weather,plural,present,The storms eventually cause heavy damage outside.,7,baseline_b,1322
+56,3,weather,plural,present,The severe storms cause heavy damage outside.,7,baseline_c,1323
+56,4,weather,plural,present,The severe storms eventually cause heavy damage outside.,8,baseline_d,1324
+56,5,weather,plural,present,The storms in winter cause heavy damage outside.,8,control_a,1325
+56,6,weather,plural,present,The storms in winter eventually cause heavy damage outside.,9,control_b,1326
+56,7,weather,plural,present,The severe storms in winter cause heavy damage outside.,9,control_c,1327
+56,8,weather,plural,present,The severe storms in winter eventually cause heavy damage outside.,10,control_d,1328
+56,9,weather,plural,present,The storms that bring rain cause heavy damage outside.,9,standard_subject_a,1329
+56,10,weather,plural,present,The storms that bring rain eventually cause heavy damage outside.,10,standard_subject_b,1330
+56,11,weather,plural,present,The severe storms that bring rain cause heavy damage outside.,10,standard_subject_c,1331
+56,12,weather,plural,present,The severe storms that bring rain eventually cause heavy damage outside.,11,standard_subject_d,1332
+56,13,weather,plural,present,The storms that the forecasters predict cause heavy damage outside.,10,standard_object_a,1333
+56,14,weather,plural,present,The storms that the forecasters predict eventually cause heavy damage outside.,11,standard_object_b,1334
+56,15,weather,plural,present,The severe storms that the forecasters predict cause heavy damage outside.,11,standard_object_c,1335
+56,16,weather,plural,present,The severe storms that the forecasters predict eventually cause heavy damage outside.,12,standard_object_d,1336
+56,17,weather,plural,present,The storms that reach cities that have many bridges cause heavy damage outside.,13,nested_subject_a,1337
+56,18,weather,plural,present,The storms that reach cities that have many bridges eventually cause heavy damage outside.,14,nested_subject_b,1338
+56,19,weather,plural,present,The severe storms that reach cities that have many bridges cause heavy damage outside.,14,nested_subject_c,1339
+56,20,weather,plural,present,The severe storms that reach cities that have many bridges eventually cause heavy damage outside.,15,nested_subject_d,1340
+56,21,weather,plural,present,The storms that the scientists who the government hires study cause heavy damage outside.,14,nested_object_a,1341
+56,22,weather,plural,present,The storms that the scientists who the government hires study eventually cause heavy damage outside.,15,nested_object_b,1342
+56,23,weather,plural,present,The severe storms that the scientists who the government hires study cause heavy damage outside.,15,nested_object_c,1343
+56,24,weather,plural,present,The severe storms that the scientists who the government hires study eventually cause heavy damage outside.,16,nested_object_d,1344
+57,1,weather,singular,past,The meteorologist checked the temperature.,5,baseline_a,1345
+57,2,weather,singular,past,The meteorologist quickly checked the temperature.,6,baseline_b,1346
+57,3,weather,singular,past,The experienced meteorologist checked the temperature.,6,baseline_c,1347
+57,4,weather,singular,past,The experienced meteorologist quickly checked the temperature.,7,baseline_d,1348
+57,5,weather,singular,past,The meteorologist in the station checked the temperature.,8,control_a,1349
+57,6,weather,singular,past,The meteorologist in the station quickly checked the temperature.,9,control_b,1350
+57,7,weather,singular,past,The experienced meteorologist in the station checked the temperature.,9,control_c,1351
+57,8,weather,singular,past,The experienced meteorologist in the station quickly checked the temperature.,10,control_d,1352
+57,9,weather,singular,past,The meteorologist who forecast the storm checked the temperature.,9,standard_subject_a,1353
+57,10,weather,singular,past,The meteorologist who forecast the storm quickly checked the temperature.,10,standard_subject_b,1354
+57,11,weather,singular,past,The experienced meteorologist who forecast the storm checked the temperature.,10,standard_subject_c,1355
+57,12,weather,singular,past,The experienced meteorologist who forecast the storm quickly checked the temperature.,11,standard_subject_d,1356
+57,13,weather,singular,past,The meteorologist who the director appointed checked the temperature.,9,standard_object_a,1357
+57,14,weather,singular,past,The meteorologist who the director appointed quickly checked the temperature.,10,standard_object_b,1358
+57,15,weather,singular,past,The experienced meteorologist who the director appointed checked the temperature.,10,standard_object_c,1359
+57,16,weather,singular,past,The experienced meteorologist who the director appointed quickly checked the temperature.,11,standard_object_d,1360
+57,17,weather,singular,past,The meteorologist who analyzed the data that was from the satellite checked the temperature.,14,nested_subject_a,1361
+57,18,weather,singular,past,The meteorologist who analyzed the data that was from the satellite quickly checked the temperature.,15,nested_subject_b,1362
+57,19,weather,singular,past,The experienced meteorologist who analyzed the data that was from the satellite checked the temperature.,15,nested_subject_c,1363
+57,20,weather,singular,past,The experienced meteorologist who analyzed the data that was from the satellite quickly checked the temperature.,16,nested_subject_d,1364
+57,21,weather,singular,past,The meteorologist who the scientist who the government hired respected checked the temperature.,13,nested_object_a,1365
+57,22,weather,singular,past,The meteorologist who the scientist who the government hired respected quickly checked the temperature.,14,nested_object_b,1366
+57,23,weather,singular,past,The experienced meteorologist who the scientist who the government hired respected checked the temperature.,14,nested_object_c,1367
+57,24,weather,singular,past,The experienced meteorologist who the scientist who the government hired respected quickly checked the temperature.,15,nested_object_d,1368
+58,1,work,plural,past,The teachers graded the papers.,5,baseline_a,1369
+58,2,work,plural,past,The teachers carefully graded the papers.,6,baseline_b,1370
+58,3,work,plural,past,The experienced teachers graded the papers.,6,baseline_c,1371
+58,4,work,plural,past,The experienced teachers carefully graded the papers.,7,baseline_d,1372
+58,5,work,plural,past,The teachers in the staff room graded the papers.,9,control_a,1373
+58,6,work,plural,past,The teachers in the staff room carefully graded the papers.,10,control_b,1374
+58,7,work,plural,past,The experienced teachers in the staff room graded the papers.,10,control_c,1375
+58,8,work,plural,past,The experienced teachers in the staff room carefully graded the papers.,11,control_d,1376
+58,9,work,plural,past,The teachers who studied hard graded the papers.,8,standard_subject_a,1377
+58,10,work,plural,past,The teachers who studied hard carefully graded the papers.,9,standard_subject_b,1378
+58,11,work,plural,past,The experienced teachers who studied hard graded the papers.,9,standard_subject_c,1379
+58,12,work,plural,past,The experienced teachers who studied hard carefully graded the papers.,10,standard_subject_d,1380
+58,13,work,plural,past,The teachers who the students respected graded the papers.,9,standard_object_a,1381
+58,14,work,plural,past,The teachers who the students respected carefully graded the papers.,10,standard_object_b,1382
+58,15,work,plural,past,The experienced teachers who the students respected graded the papers.,10,standard_object_c,1383
+58,16,work,plural,past,The experienced teachers who the students respected carefully graded the papers.,11,standard_object_d,1384
+58,17,work,plural,past,The teachers who read the books that were on the shelves graded the papers.,14,nested_subject_a,1385
+58,18,work,plural,past,The teachers who read the books that were on the shelves carefully graded the papers.,15,nested_subject_b,1386
+58,19,work,plural,past,The experienced teachers who read the books that were on the shelves graded the papers.,15,nested_subject_c,1387
+58,20,work,plural,past,The experienced teachers who read the books that were on the shelves carefully graded the papers.,16,nested_subject_d,1388
+58,21,work,plural,past,The teachers who the parents who the school invited met graded the papers.,13,nested_object_a,1389
+58,22,work,plural,past,The teachers who the parents who the school invited met carefully graded the papers.,14,nested_object_b,1390
+58,23,work,plural,past,The experienced teachers who the parents who the school invited met graded the papers.,14,nested_object_c,1391
+58,24,work,plural,past,The experienced teachers who the parents who the school invited met carefully graded the papers.,15,nested_object_d,1392
+59,1,work,singular,past,The employee ate a sandwich.,5,baseline_a,1393
+59,2,work,singular,past,The employee quickly ate a sandwich.,6,baseline_b,1394
+59,3,work,singular,past,The young employee ate a sandwich.,6,baseline_c,1395
+59,4,work,singular,past,The young employee quickly ate a sandwich.,7,baseline_d,1396
+59,5,work,singular,past,The employee in the break room ate a sandwich.,9,control_a,1397
+59,6,work,singular,past,The employee in the break room quickly ate a sandwich.,10,control_b,1398
+59,7,work,singular,past,The young employee in the break room ate a sandwich.,10,control_c,1399
+59,8,work,singular,past,The young employee in the break room quickly ate a sandwich.,11,control_d,1400
+59,9,work,singular,past,The employee who studied hard ate a sandwich.,8,standard_subject_a,1401
+59,10,work,singular,past,The employee who studied hard quickly ate a sandwich.,9,standard_subject_b,1402
+59,11,work,singular,past,The young employee who studied hard ate a sandwich.,9,standard_subject_c,1403
+59,12,work,singular,past,The young employee who studied hard quickly ate a sandwich.,10,standard_subject_d,1404
+59,13,work,singular,past,The employee who the supervisor called ate a sandwich.,9,standard_object_a,1405
+59,14,work,singular,past,The employee who the supervisor called quickly ate a sandwich.,10,standard_object_b,1406
+59,15,work,singular,past,The young employee who the supervisor called ate a sandwich.,10,standard_object_c,1407
+59,16,work,singular,past,The young employee who the supervisor called quickly ate a sandwich.,11,standard_object_d,1408
+59,17,work,singular,past,The employee who saw the textbook that was on the shelf ate a sandwich.,14,nested_subject_a,1409
+59,18,work,singular,past,The employee who saw the textbook that was on the shelf quickly ate a sandwich.,15,nested_subject_b,1410
+59,19,work,singular,past,The young employee who saw the textbook that was on the shelf ate a sandwich.,15,nested_subject_c,1411
+59,20,work,singular,past,The young employee who saw the textbook that was on the shelf quickly ate a sandwich.,16,nested_subject_d,1412
+59,21,work,singular,past,The employee who the teacher who the school employed praised ate a sandwich.,13,nested_object_a,1413
+59,22,work,singular,past,The employee who the teacher who the school employed praised quickly ate a sandwich.,14,nested_object_b,1414
+59,23,work,singular,past,The young employee who the teacher who the school employed praised ate a sandwich.,14,nested_object_c,1415
+59,24,work,singular,past,The young employee who the teacher who the school employed praised quickly ate a sandwich.,15,nested_object_d,1416
+60,1,work,singular,present,The teacher explains the math problem.,6,baseline_a,1417
+60,2,work,singular,present,The teacher clearly explains the math problem.,7,baseline_b,1418
+60,3,work,singular,present,The experienced teacherexplains the math problem.,7,baseline_c,1419
+60,4,work,singular,present,The experienced teacher clearly explains the math problem.,8,baseline_d,1420
+60,5,work,singular,present,The teacher in the school explains the math problem.,9,control_a,1421
+60,6,work,singular,present,The teacher in the school clearly explains the math problem.,10,control_b,1422
+60,7,work,singular,present,The experienced teacher in the school explains the math problem.,10,control_c,1423
+60,8,work,singular,present,The experienced teacher in the school clearly explains the math problem.,11,control_d,1424
+60,9,work,singular,present,The teacher who prepared the class explains the math problem.,9,standard_subject_a,1425
+60,10,work,singular,present,The teacher who prepared the class clearly explains the math problem.,10,standard_subject_b,1426
+60,11,work,singular,present,The experienced teacher who prepared the class explains the math problem.,10,standard_subject_c,1427
+60,12,work,singular,present,The experienced teacher who prepared the class clearly explains the math problem.,11,standard_subject_d,1428
+60,13,work,singular,present,The teacher who the principal hired explains the math problem.,10,standard_object_a,1429
+60,14,work,singular,present,The teacher who the principal hired clearly explains the math problem.,11,standard_object_b,1430
+60,15,work,singular,present,The experienced teacher who the principal hired explains the math problem.,11,standard_object_c,1431
+60,16,work,singular,present,The experienced teacher who the principal hired clearly explains the math problem.,12,standard_object_d,1432
+60,17,work,singular,present,The teacher who reads the lesson that is in the book explains the math problem.,15,nested_subject_a,1433
+60,18,work,singular,present,The teacher who reads the lesson that is in the book clearly explains the math problem.,16,nested_subject_b,1434
+60,19,work,singular,present,The experienced teacher who reads the lesson that is in the book explains the math problem.,16,nested_subject_c,1435
+60,20,work,singular,present,The experienced teacher who reads the lesson that is in the book clearly explains the math problem.,17,nested_subject_d,1436
+60,21,work,singular,present,The teacher who the professor who the university recommends supervises explains the math problem.,14,nested_object_a,1437
+60,22,work,singular,present,The teacher who the professor who the university recommends supervises clearly explains the math problem.,15,nested_object_b,1438
+60,23,work,singular,present,The experienced teacher who the professor who the university recommends supervises explains the math problem.,15,nested_object_c,1439
+60,24,work,singular,present,The experienced teacher who the professor who the university recommends supervises clearly explains the math problem.,16,nested_object_d,1440
