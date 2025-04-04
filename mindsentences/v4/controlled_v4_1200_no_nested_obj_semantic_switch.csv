@@ -1,4 +1,4 @@
-set_number,sentID_in_set,theme,numerosity,tense,sentence,word_count,structure,sentID_in_dataset,sentence_id,audio_filename,original_sentence
+set_number,sentID_in_set,theme,numerosity,tense,sentence,word_count,structure,sentID_in_dataset,sentence_id,audio_filename,before_semantic_switch_sentence
 1,1,art,plural,past,The artists painted their canvases yesterday.,7,baseline_a,1,ctr_00000,ctr_00000.wav,The artists painted their canvases yesterday.
 1,2,art,plural,past,The artists attentively painted their canvases yesterday.,7,baseline_b,2,ctr_00001,ctr_00001.wav,The artists attentively painted their canvases yesterday.
 1,3,art,plural,past,The talented artists painted their canvases yesterday.,7,baseline_c,3,ctr_00002,ctr_00002.wav,The talented artists painted their canvases yesterday.
